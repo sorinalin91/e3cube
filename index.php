@@ -23,21 +23,26 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-      </button>
+      </button> -->
       <a class="navbar-brand" href="#"><img class="img-responsive" src="images/logo.png"></a>
+      <a class="navbar-brand" href="https://www.facebook.com/E3CubeLtd" target="_blank"><img class="img-responsive 32dim" src="images/fb.png" style="width:32px;height:35px;margin-top:7px;"></a>
+      <a class="navbar-brand" href="https://www.linkedin.com/company/e3-cube-ltd" target="_blank"><img class="img-responsive 32dim" src="images/ln.png" style="width:32px;height:35px;margin-top:7px;"></a>
+      <a class="navbar-brand" href="tel:03333 058 2918"><img class="img-responsive 32dim" src="images/phone.png" style="width:32px;height:35px;margin-top:7px;"></a>
+      <a class="navbar-brand" href="mailto:enquiries@e3cube.co.uk"><img class="img-responsive 32dim" src="images/mail.png" style="width:32px;height:35px;margin-top:7px;"></a>
+      <a class="navbar-brand" href="#"><marquee class="news_special" behavior="scroll" direction="up" scrollamount="1">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</marquee></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+      <!-- <ul class="nav navbar-nav">
         <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
         <li><a href="#">Link</a></li>
-      </ul>
+      </ul> -->
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
@@ -87,7 +92,7 @@
   <div class="row">
     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy dummy-special" style="padding-top: 79.95%"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
           <div class="text-padding filter-hover-text">
@@ -101,7 +106,7 @@
     </div>
     <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy" style="padding-top:57.1%"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
           <h2 class="image-title">ACCRINGTON &amp; ROSSENDALE COLLEGE NEW SPORTS CENTRE <span style="color:#58b7df;">&nbsp;></span></h2>
@@ -110,7 +115,7 @@
     </div>
     <div class="col-md-6 col-xs-6 light-background">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy" style="padding-top:57.1%"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
           <h2 class="image-title">CHRISTLETON HIGH SCHOOL CLADDING RENEWAL <span style="color:#58b7df;">&nbsp;></span></h2>
@@ -119,7 +124,7 @@
     </div>
     <div class="col-md-6 col-xs-6 light-background image">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy" style="padding-top: 57.1%"></div>
+      <div class="dummy" style="padding-top: 69.1%"></div>
       <a href="" class="full-div-link"></a>
       <div class="grid-container">
           <a href="" class="full-div-link"></a>
@@ -137,7 +142,7 @@
     </div>
     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy dummy-special" style="padding-top: 79.95%"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
           <div class="text-padding filter-hover-text">
@@ -149,21 +154,182 @@
     </div>
     <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy" style="padding-top:57.1%"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
           <h2 class="image-title">WELCOME TO A WINNING TEAM <span style="color:#58b7df;">&nbsp;></span></h2>
-          <img class="full-width-image"src="images/Image_Z.jpg">IMAGE Z
+          <img class="full-width-image"src="images/Image_Z.jpg">
         </div>
     </div>
     <div class="col-md-12 col-xs-12 light-background">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy" style="padding-top:35%"></div>
+      <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">
-          <a href="" class="full-div-link"></a>
-          <img class="full-width-image"src="images/Image_A_1920.jpg">
+          <img class="full-width-image"src="images/Image_A_1680.jpg">
         </div>
     </div>
+    <div class="col-md-6 col-xs-6 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <!-- <img class="full-width-image"src="images/ImageB.jpg"> -->
+        </div>
+    </div>
+    <div class="col-md-6 col-xs-6 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageA2.jpg">
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageA3.jpg">
+        </div>
+    </div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-xs-6 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <!-- <img class="full-width-image"src="images/ImageB.jpg"> -->
+        </div>
+    </div>
+    <div class="col-md-6 col-xs-6 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageA4.jpg">
+        </div>
+    </div>
+    <div class="col-md-12 col-xs-12 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:40%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageB2.jpg">
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:68.95%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageB3.jpg">
+        </div>
+    </div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageB4.jpg">
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageB5.jpg">
+        </div>
+    </div>
+     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+    <div class="col-md-12 col-xs-12 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:40%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageC1.jpg">
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:68.96%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageC2.jpg">
+        </div>
+    </div>
+     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageC3.jpg">
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:69.1%"></div>
+        <div class="grid-container">
+          <img class="full-width-image"src="images/ImageC4.jpg">
+        </div>
+    </div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding filter-hover-text">
+          </div>
+        </div>
+    </div>
+<footer>
+  <div class="col-md-12 col-xs-12 footer">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:20%"></div>
+        <div class="grid-container">
+        </div>
+    </div>
+</footer>
+
+    
 
   </div>
 </div>     
