@@ -96,11 +96,11 @@ body {
     -o-background-size: cover;
 }
 .carousel-caption{
-	position: absolute;
+	  position: absolute;
   	top: 0;
   	text-align: left;
   	left: 0;
-  	padding: 150px 0 0 100px;
+  	padding: 180px 0 0 100px;
 }
 .carousel-caption h1{
   	font-family: 'Abel', sans-serif;
@@ -158,6 +158,9 @@ body {
     	font-size: 26px;
     	padding: 20px 0 20px 0;
     }
+    .container-fluid .image-title{
+      padding: 15px 30px 20px 20px;
+    }
     .container-fluid p{
     	font-size: 100%;
     }
@@ -168,7 +171,7 @@ body {
       padding: 0;
     }
     .text-padding p:first-child{
-      margin-top: 35px !important;
+      margin-top: 15px !important;
     }
     .text-padding h1{
       padding: 0;
@@ -182,10 +185,10 @@ body {
     }
     .left-inside-col{
       font-size: 15vw;
-      padding-top: 25px;
+      padding-top: 0px;
     }
     .right-inside-col{
-      padding-top: 1%;
+      padding-top: 15px;
     }
     .right-inside-col h2{
       padding: 0 60px 0 0px;
@@ -193,7 +196,7 @@ body {
       margin: 10px 0 0 0;
     }
     .right-inside-col h2:first-child{
-      padding: 50px 0 0 0px;
+      padding: 30px 0 0 0px;
 
     }
 }
@@ -222,7 +225,7 @@ body {
     	padding: 5px 5px 0 20px;
     }
      .container-fluid p{
-    	font-size: 40%;
+    	font-size: 60%;
     	padding-top: 0px;
     }
     .grid-container p{
@@ -238,22 +241,31 @@ body {
       display: none;
     }
     .left-inside-col{
-      font-size: 35vw;
+      font-size: 23vw;
+      padding-top: 15px !important; 
+
     }
     .blue-border{
       display: none;
     }
-    .left-inside-col{
-      padding-top: 15px;
-    }
     .right-inside-col{
-      padding-top: 30px;
+      padding-top: 40px;
     }
      .right-inside-col h2{
       padding: 0 15px 0 0;
       margin-bottom: -10px;
       font-size: 1.8vw;
       margin: 0 0 5px 0;
+    }
+    .image:hover .right-inside-col{
+      position: absolute;
+      color: white;
+      z-index: 2;
+    }
+    .image:hover .left-inside-col{
+      color: white;
+      z-index: 2;
+      position: absolute;
     }
 }
 
@@ -295,19 +307,30 @@ h2{
 .filter-hover{
   opacity: 0;
 }
-.filter-hover-text{
-  opacity: 0;
-}
 .image:hover .filter-hover{
-  opacity: 0.6;
+  opacity: 1;
+  transition: opacity .30s ease-in-out;
+  z-index: 1;
 }
 .image:hover .filter-hover-text{
-  opacity: 1;
+  color: white;
+  z-index: 2;
+  position: absolute;
+}
+.image:hover .right-inside-col{
+  position: absolute;
+  color: white;
+  z-index: 2;
+}
+.image:hover .left-inside-col{
+  color: white;
+  z-index: 2;
+  position: absolute;
 }
 .blue-border{
   width: 50px;
   height: 5px;
-  border-top: 2px solid #00255e;
+  border-top: 2px solid #58b7df;
   position: absolute;
 }
 .padding-50-0-0-50{

@@ -85,12 +85,13 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
-      <div class="dummy dummy-special" style="padding-top: 79.9%"></div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 79.95%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
-          <div class="text-padding">
-            <h2 class="padding-20-0-0-50">ABOUT US</h2>
+          <div class="text-padding filter-hover-text">
+            <h2 class="padding-20-0-0-50">ABOUT US <span style="color:#58b7df;">&nbsp;></span></h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50">E3 Cube is a specialist property consultancy. At the core of our success you will find our people.</p>
             <p class="padding-left-50">Our focus is on providing quality, tailor-made services to each and every client.</p>
@@ -98,39 +99,74 @@
           </div>
         </div>
     </div>
-    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item image">
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:57.1%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
-          <h2 class="image-title filter-hover-text">ACCRINGTON &amp; ROSSENDALE COLLEGE NEW SPORTS CENTRE</h2>
+          <h2 class="image-title">ACCRINGTON &amp; ROSSENDALE COLLEGE NEW SPORTS CENTRE <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/Image_A.jpg">
+        </div>
+    </div>
+    <div class="col-md-6 col-xs-6 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:57.1%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <h2 class="image-title">CHRISTLETON HIGH SCHOOL CLADDING RENEWAL <span style="color:#58b7df;">&nbsp;></span></h2>
+          <img class="full-width-image"src="images/ImageB.jpg">
         </div>
     </div>
     <div class="col-md-6 col-xs-6 light-background image">
       <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top: 57.1%"></div>
+      <a href="" class="full-div-link"></a>
+      <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding ">
+          <div class="text-padding filter-hover-text-span">
+            <span class="left-inside-col"><p>94%</p></span>
+            <span class="right-inside-col">
+              <h2>OF</h2>
+              <h2>CIF</h2>
+              <h2>BIOS SUCCESSFUL</h2>
+            </span>
+         </div> 
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy dummy-special" style="padding-top: 79.95%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <div class="text-padding filter-hover-text">
+            <h2 class="padding-20-0-0-50">OUR SERVICES <span style="color:#58b7df;">&nbsp;></span></h2>
+            <span class="blue-border hidden-mobile-p"></span>
+            <p class="padding-50-0-0-50">TAILORED WITH YOU IN MIND.</p>
+          </div>
+        </div>
+    </div>
+    <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
+      <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:57.1%"></div>
         <div class="grid-container">
           <a href="" class="full-div-link"></a>
-          <h2 class="image-title filter-hover-text">CHRISTLETON HIGH SCHOOL CLADDING RENEWAL</h2>
-          <img class="full-width-image"src="images/ImageB.jpg">
+          <h2 class="image-title">WELCOME TO A WINNING TEAM <span style="color:#58b7df;">&nbsp;></span></h2>
+          <img class="full-width-image"src="images/Image_Z.jpg">IMAGE Z
         </div>
     </div>
-    <div class="col-md-6 col-xs-6 light-background">
-      <div class="dummy" style="padding-top: 57.1%"></div>
-      <a href="" class="full-div-link"></a>
-          <span class="left-inside-col"><p>94%</p></span>
-          <span class="right-inside-col">
-            <h2>OF</h2>
-            <h2>CIF</h2>
-            <h2>BIOS SUCCESSFUL</h2>
-          </span>
-      <span></span>
+    <div class="col-md-12 col-xs-12 light-background">
+      <div class="nav-bg-filter filter-hover"></div>
+      <div class="dummy" style="padding-top:35%"></div>
+        <div class="grid-container">
+          <a href="" class="full-div-link"></a>
+          <img class="full-width-image"src="images/Image_A_1920.jpg">
+        </div>
     </div>
+
   </div>
-</div>  
-
-
+</div>     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
