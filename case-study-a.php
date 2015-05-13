@@ -14,7 +14,6 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
-          <a href="" class="full-div-link"></a>
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
