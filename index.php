@@ -61,7 +61,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
-          <a href="" class="full-div-link"></a>
+          <a href="case-study-a.php" class="full-div-link"></a>
           <h2 class="image-title">ACCRINGTON &amp; ROSSENDALE COLLEGE NEW SPORTS CENTRE <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/Image_A.jpg">
         </div>
@@ -78,9 +78,8 @@
     <div class="col-md-6 col-xs-6 light-background image">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 69.1%"></div>
-      <a href="" class="full-div-link"></a>
+      <a href="case-study-94.php" class="full-div-link"></a>
       <div class="grid-container">
-          <a href="" class="full-div-link"></a>
           <div class="text-padding ">
           <div class="text-padding filter-hover-text-span">
             <span class="left-inside-col"><p>94%</p></span>

@@ -118,7 +118,7 @@ body {
 }
 .container-fluid p{
 	font-size: 140%;
-  	margin: 0;
+  margin: 0;
 }
 @media all and (min-width: 960px) {
     .carousel-caption h1 {
@@ -157,6 +157,15 @@ body {
       margin-top: 10px;
       width: 32px;
       height: 35px !important;
+    }
+    .full-width-image-text{
+      margin-top: 80px;
+    }
+    .firs-full-width-image{
+      margin-top: 80px !important;
+    }
+    .container-fluid p.special-p{
+      font-size: 250%;
     }
 
 }
@@ -221,6 +230,9 @@ body {
       width: 32px;
       height: 35px !important;
     }
+    /*.full-width-image-text{
+      margin-top: 50px;
+    }*/
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
@@ -303,6 +315,13 @@ body {
       margin-top: 7px;
       width: 32px;
       height: 35px !important;
+    }
+    h2.full-width-image-text{
+      font-size: 18px;
+      padding: 10px 0 0 10px;
+    }
+    .container-fluid h2.long-text-mobile{
+      font-size: 16px !important;
     }
 }
 
