@@ -2,7 +2,7 @@
 
 <div class="container-fluid">
 <div class="row">
-<div class="col-md-12 col-xs-12 light-background firs-full-width-image" style="margin-top: 40px;">
+    <div class="col-md-12 col-xs-12 light-background firs-full-width-image" style="margin-top: 40px;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">

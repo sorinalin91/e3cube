@@ -70,7 +70,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
-          <a href="" class="full-div-link"></a>
+          <a href="case-study-b.php" class="full-div-link"></a>
           <h2 class="image-title">CHRISTLETON HIGH SCHOOL CLADDING RENEWAL <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/ImageB.jpg">
         </div>
