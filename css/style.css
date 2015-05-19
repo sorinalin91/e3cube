@@ -167,7 +167,10 @@ body {
     .container-fluid p.special-p{
       font-size: 250%;
     }
-
+    footer .footer-h2{
+      padding: 0;
+      margin: 10px 5px 0 0;
+    }
 }
  
 @media all and (max-width: 959px) and (min-width: 600px) {
@@ -239,6 +242,22 @@ body {
      .container-fluid .grid-container.first-box-h2{
       padding-top: 15px !important;
     }
+    footer .footer-h2{
+      padding: 0;
+      margin: 10px 5px 0 0;
+    }
+    footer .footer-email{
+      font-size: 16px;
+    }
+    footer .footer-tel{
+      font-size: 16px;
+    }
+    .dummy.dummy-footer{
+      padding-top: 60% !important;
+    }
+    .container-fluid .our-services-dummy-boxes{
+      padding-top: 100% !important;
+    }
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
@@ -260,9 +279,6 @@ body {
     }
     .dummy{
     	padding-top: 100%;
-    }
-    .dummy.dummy-footer{
-      padding-top: 160% !important;
     }
     .container-fluid p{
     	padding: 5px 5px 0 10px;
@@ -344,6 +360,24 @@ body {
     }
     .container-fluid h2.smaler-image-title-mobile{
       font-size: 14px;
+    }
+    footer .footer-h2{
+      padding: 0;
+      margin: 10px 5px 0 0;
+    }
+    footer .footer-email{
+      font-size: 11px;
+      margin-top: 10px;
+    }
+    footer .footer-tel{
+      font-size: 12px;
+      margin-top: 10px;
+    }
+    .dummy.dummy-footer{
+      padding-top: 220% !important;
+    }
+    footer .footer-grid-container{
+      margin-top: 10px;
     }
 }
 
@@ -454,4 +488,18 @@ a .img-responsive.32dim{
   position: relative;
   z-index: 3;
 
+}
+footer .footer-h2{
+  color: white;
+}
+footer .footer-h2 span,a{
+  color:  #ffffff;
+  text-decoration: none;
+}
+footer .footer-h2 a:hover{
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer-parteners{
+  margin-top: 10px;
 }
