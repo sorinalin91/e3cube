@@ -30,7 +30,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy-boxes" style="padding-top:69%"></div>
   <div class="grid-container">
-  	<a href="case-study-a.php" class="full-div-link"></a>
+  	<a href="strategic-planning.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">STRATEGIC PLANNING<br />CAPITAL FINDING SUPPORT<br />MASTER PLANNING<br /></h2>
     <img class="full-width-image"src="images/ImageD1.jpg">
   </div>
