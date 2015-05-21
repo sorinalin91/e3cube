@@ -15,7 +15,6 @@
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p">BREEAM Excellen</p>
             <p class="padding-left-50 special-p">CARBON NEGATIVE</p>
@@ -43,7 +42,6 @@
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p">SPORT ENGLAND APPROVED</p>
             <p class="padding-left-50 special-p">COMMUNITY SPORT</p>
@@ -56,7 +54,6 @@
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p">SUSTAINABLE</p>
             <p class="padding-left-50 special-p">ROBUST MATERIALS</p>

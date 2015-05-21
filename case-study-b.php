@@ -22,7 +22,6 @@
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p">TIRED AND LIFE CYCLE EXPIRED</p>
             <p class="padding-left-50 special-p">DISRUPTIVE ENVIRONMENT FOR TEACHING</p>
@@ -35,7 +34,6 @@
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p">CONCEPT DEFINED</p>
             <p class="padding-left-50 special-p">BUILDABLITY DETERMINED </p>
@@ -62,7 +60,6 @@
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <h2 class="padding-20-0-0-50">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p" style="font-style: italic;">“E3cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” <br /> <br />“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects”
 </p>
