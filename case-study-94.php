@@ -38,7 +38,7 @@
         <p class="padding-50-0-0-50 first-p-without-title">“Working with E3 Cube has been a professional pleasure. Their value lies in having people who understand the Education Sector and that is invaluable” Business Manager</p><br />
         <p class="padding-left-50" style="font-style:italic;">“On behalf of students, staff, parents and governors, a sincere thank you as I am sure we would not have got it without your knowledge and expertise” Headteacher</p><br />
         <p class="padding-left-50" style="font-style:italic;">"E3 Cube achieved the impossible in a very short period of time, securing the College significant levels of EFA funding for our new £5m Visitor Economy Centre" Vice Principal</p><br />
-        <p class="padding-left-50" style="font-style:italic;">“Thanks to E3 cube we have secured funding for 3 projects each around £1M – we highly recommend them.” Headteacher</p>
+        <p class="padding-left-50 hidden-mobile-p" style="font-style:italic;">“Thanks to E3 cube we have secured funding for 3 projects each around £1M – we highly recommend them.” Headteacher</p>
       </div>
     </div>
 </div>

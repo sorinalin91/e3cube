@@ -43,11 +43,10 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
-          <a href="" class="full-div-link"></a>
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50">ABOUT US <span style="color:#58b7df;">&nbsp;></span></h2>
             <span class="blue-border hidden-mobile-p"></span>

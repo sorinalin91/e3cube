@@ -177,6 +177,10 @@ body {
       padding: 0;
       margin: 10px 5px 0 0;
     }
+    .building-ul-margin{
+      margin-left: 50px;
+      font-size: 1.2em;
+    }
 }
  
 @media all and (max-width: 959px) and (min-width: 600px) {
@@ -268,7 +272,10 @@ body {
       margin-top: 15px;
     }
     .container-fluid .strategic-12-col-grid-container h2{
-      font-size: 95%;
+      font-size: 124%;
+    }
+    .container-fluid .strategic-12-col-grid-container h2.special-h2-for-strategic{
+      font-size: 95% ;
     }
     .container-fluid .strategic-12-col-grid-container h2.image-title-12-col-right.no-padding{
       padding: 35px 0 0 10px;
@@ -279,6 +286,13 @@ body {
     .container-fluid h2.strategic-12-col-grid-h2{
       font-size: 18px;
       padding: 10px 30px 20px 20px;
+    }
+    .building-ul-margin{
+      margin-left: 10px;
+    }
+    .container-fluid .nbsp-h2{
+      padding: 0px !important;
+      margin-bottom: 0px;
     }
 }
  
@@ -405,7 +419,7 @@ body {
       margin-top: 45px;
     }
     .container-fluid .strategic-12-col-grid-container h2{
-      font-size: 10px;
+      font-size: 7px;
     }
     .container-fluid .strategic-12-col-grid-container h2.strategic-12-grid-h2{
       margin: 10px 0 0 10px !important;
@@ -418,6 +432,20 @@ body {
     }
     .container-fluid h2.strategic-12-col-grid-h2{
       font-size: 10px;
+    }
+    .building-ul-margin{
+      margin-left: 0px;
+      font-size: 0.6em;
+      padding-left: 30px;
+    }
+    .container-fluid .nbsp-h2{
+      padding: 0px !important;
+    }
+    .container-fluid .nbsp-h2{
+      display: none;
+    }
+    .hidden-on-small-devices{
+      display: none;
     }
 }
 
