@@ -17,7 +17,7 @@
           <img class="full-width-image"src="images/ImageB3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
@@ -29,7 +29,7 @@
           </div>
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
@@ -55,7 +55,7 @@
           <img class="full-width-image"src="images/ImageB5.jpg">
         </div>
     </div>
-     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">

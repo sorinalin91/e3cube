@@ -10,7 +10,7 @@
           <img class="full-width-image"src="images/Image_A_1680.jpg" style="height: auto;">
         </div>
     </div>
-    <div class="col-md-6 col-xs-6 light-background image">
+    <div class="col-md-6 col-xs-6 light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
@@ -37,7 +37,7 @@
           <img class="full-width-image"src="images/ImageA3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
@@ -49,7 +49,7 @@
           </div>
         </div>
     </div>
-    <div class="col-md-6 col-xs-6 light-background image">
+    <div class="col-md-6 col-xs-6 light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">

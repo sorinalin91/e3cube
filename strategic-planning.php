@@ -7,7 +7,7 @@
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
     <div class="grid-container strategic-12-col-grid-container">
       <h2 class="image-title smaler-image-title-mobile " style="color:#666">STRATEGIC PLANNING <br />CAPITAL FINDING SUPPORT <br />MASTER PLANNING &amp; ESTATE STRATEGIES <br />ASSET RATIONALISATION STUDIES <br />PROCUREMENT ADVICE <br />SPACE UTILISATION SURVEYS <br />SPACE MODELLING <br />OPTION APPRAISALS <br />BUSINESS CASE DEVELOPMENT <br />DUE DILIGENCE <br />RISK MANAGEMENT<br />FEASIBILITY STUDIES</h2>
-      <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2" style="color:#666">Our specialist strategic consultants support clients to make informed rationalised decisions, by developing, planning and implementing strategic solutions to maximise the efficiency of their buildings, property assets and estates. </h2>
+      <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2" style="color:#666;width:40%;">Our specialist strategic consultants support clients to make informed rationalised decisions, by developing, planning and implementing strategic solutions to maximise the efficiency of their buildings, property assets and estates. </h2>
     </div>
 </div>
 <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
