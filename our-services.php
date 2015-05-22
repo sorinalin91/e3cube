@@ -28,7 +28,7 @@
 </div>	
 <div class="col-xs-4 col-md-4 col-lg-4 no-padding block-item">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
+  <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="strategic-planning.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">STRATEGIC PLANNING<br />CAPITAL FINDING SUPPORT<br />MASTER PLANNING<br /></h2>
@@ -37,7 +37,7 @@
 </div>
 <div class="col-xs-4 col-md-4 col-lg-4 no-padding block-item">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
+  <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="building-surveying.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">BUILDING SURVEYING CONSULTANCY</h2>
@@ -46,7 +46,7 @@
 </div>
 <div class="col-xs-4 col-md-4 col-lg-4 no-padding block-item">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
+  <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="design-and-contract-management.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">DESIGN AND CONTRACT MANAGEMENT</h2>
@@ -55,7 +55,7 @@
 </div>
 <div class="col-xs-4 col-md-4 col-lg-4 no-padding block-item">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
+  <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="access-consultancy.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">ACCESS &amp; EQUALITY CONSULTANCY</h2>
@@ -64,7 +64,7 @@
 </div>
 <div class="col-xs-4 col-md-4 col-lg-4 no-padding block-item">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
+  <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="health-and-safety.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">HEALTH &amp; SAFETY</h2>
@@ -73,7 +73,7 @@
 </div>
 <div class="col-xs-4 col-md-4 col-lg-4 no-padding block-item">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
+  <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="education-sector.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">EDUCATION SECTOR</h2>

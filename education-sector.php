@@ -35,7 +35,7 @@
       <div class="dummy" style="padding-top:68.3%"></div>
         <div class="grid-container">
           <h2 class="image-title strategic-12-col-grid-h2">“E3cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” Headteacher. </h2>
-          <img class="full-width-image"src="images/Image_I2.jpg">
+          <img class="full-width-image"src="images/Image_J2.jpg">
         </div>
     </div>
     <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
@@ -43,7 +43,7 @@
       <div class="dummy" style="padding-top:68.3%"></div>
         <div class="grid-container">
           <h2 class="image-title strategic-12-col-grid-h2">"E3 Cube have a detailed understanding of the challenges and needs within the Education Sector, being able to draw upon this knowledge has been invaluable" Vice Principal.</h2>
-          <img class="full-width-image"src="images/Image_I3.jpg">
+          <img class="full-width-image"src="images/Image_J3.jpg">
         </div>
     </div>
     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
@@ -96,7 +96,7 @@
       <div class="dummy" style="padding-top:68.5%"></div>
         <div class="grid-container">
           <h2 class="image-title strategic-12-col-grid-h2">"TO BE OBTAINED FROM MARK ASKHAM" Associate Director, Estate Management.</h2>
-          <img class="full-width-image"src="images/Image_I4.jpg">
+          <img class="full-width-image"src="images/Image_J4.jpg">
         </div>
     </div>
 <?php include 'templates/footer.php' ?>    
