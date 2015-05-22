@@ -181,6 +181,17 @@ body {
       margin-left: 50px;
       font-size: 1.2em;
     }
+    .right-column-mobile-width{
+      width: 40%;
+    }
+    .design-and-contract-management-span{
+      font-size: 0.5em;
+      line-height: 20px;
+    }
+    .container-fluid h2.design-and-contract-management-h2-right{
+      font-size: 1.8em;
+      line-height: 25px;
+    }
 }
  
 @media all and (max-width: 959px) and (min-width: 600px) {
@@ -293,6 +304,17 @@ body {
     .container-fluid .nbsp-h2{
       padding: 0px !important;
       margin-bottom: 0px;
+    }
+    .right-column-mobile-width{
+      width: 40%;
+    }
+    .design-and-contract-management-span{
+      font-size: 0.5em;
+      line-height: 10px;
+    }
+    .container-fluid h2.design-and-contract-management-h2-right{
+      font-size: 0.8em;
+      line-height: 16px;
     }
 }
  
@@ -447,6 +469,17 @@ body {
     .hidden-on-small-devices{
       display: none;
     }
+    .right-column-mobile-width{
+      width: 50%;
+    }
+    .design-and-contract-management-span{
+      font-size: 0.5em;
+      line-height: 5px;
+    }
+    .container-fluid h2.design-and-contract-management-h2-right{
+      font-size: 0.6em;
+      line-height: 8px;
+    }
 }
 
 .overflow{
@@ -573,6 +606,30 @@ footer .footer-h2 a:hover{
 }
 .strategic-planning-12-col{
   background: url("../images/Image_E1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }.building-surveying-12-col{
   background: url("../images/Image_F1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.design-and-contract-management-12-col{
+  background: url("../images/Image_G1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.access-consultancy-12-col{
+  background: url("../images/Image_H1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.health-and-safety-12-col{
+  background: url("../images/Image_I1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.education-12-col {
+  background: url("../images/Image_I1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }

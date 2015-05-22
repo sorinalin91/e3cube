@@ -48,7 +48,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
   <div class="grid-container">
-  	<a href="case-study-a.php" class="full-div-link"></a>
+  	<a href="design-and-contract-management.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">DESIGN AND CONTRACT MANAGEMENT</h2>
      <img class="full-width-image"src="images/ImageD3.jpg">
   </div>
@@ -57,7 +57,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
   <div class="grid-container">
-  	<a href="case-study-a.php" class="full-div-link"></a>
+  	<a href="access-consultancy.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">ACCESS &amp; EQUALITY CONSULTANCY</h2>
      <img class="full-width-image"src="images/ImageD4.jpg">
   </div>
@@ -66,7 +66,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
   <div class="grid-container">
-  	<a href="case-study-a.php" class="full-div-link"></a>
+  	<a href="health-and-safety.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">HEALTH &amp; SAFETY</h2>
      <img class="full-width-image"src="images/ImageD5.jpg">
   </div>
@@ -75,7 +75,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy-boxes" style="padding-top:100%"></div>
   <div class="grid-container">
-  	<a href="case-study-a.php" class="full-div-link"></a>
+  	<a href="education-sector.php" class="full-div-link"></a>
     <h2 class="image-title smaler-image-title-mobile">EDUCATION SECTOR</h2>
      <img class="full-width-image"src="images/ImageD6.jpg">
   </div>
