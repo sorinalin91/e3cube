@@ -6,7 +6,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">
-          <h2 class="image-title full-width-image-text">£2 MILLION CIF FUNDING SECURED <br /> WORKS CAREFULLY PLANNED DURING TERM TIME<span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title full-width-image-text" style="color:#131e29;">£2 MILLION CIF FUNDING SECURED <br /> WORKS CAREFULLY PLANNED DURING TERM TIME<span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/ImageB2.jpg">
         </div>
     </div>

@@ -6,9 +6,9 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
     <div class="grid-container strategic-12-col-grid-container">
-      <h2 class="image-title smaler-image-title-mobile ">DESIGN AND CONTRACT MANAGEMENT</h2>
-      <h2 class="image-title-12-col-right no-padding design-and-contract-management-h2-right smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#ffffff;">Our experienced design team includes chartered building surveyors and architectural technicians, a combination of which provides a unique balance of practical functionality with architectural flare.<br />Through the application of our proven systems of proactive management, we have a track record of robust project control during all stages of the scheme, ensuring delivery to cost and programme.<br /> <br />
-        <span class="design-and-contract-management-span">
+      <h2 class="image-title smaler-image-title-mobile " style="color:#131e29;">DESIGN AND CONTRACT MANAGEMENT</h2>
+      <h2 class="image-title-12-col-right no-padding design-and-contract-management-h2-right smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#131e29;">Our experienced design team includes chartered building surveyors and architectural technicians, a combination of which provides a unique balance of practical functionality with architectural flare.<br /> <br />
+        <span class="design-and-contract-management-span" style="color:#131e29;">
           <p>Our services include:-</p> 
           <p>Procurement Strategy / Contract Selection</p>
           <p>Programme and Phasing Strategies</p>
@@ -28,15 +28,15 @@
       </h2>
     </div>
 </div>
-<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;"> 
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
 	      <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p"></span>
-	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">INSPIRED INTERIOR DESIGN</p>
-	        <p class="padding-left-50" style="font-style:italic;">“The result is just breath-taking. Thank you” Principal.</p>
+	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">INSPIRED INTERIOR DESIGN</p>
+	        <p class="padding-left-50" style="font-style:italic;color:#ffffff;">“The result is just breath-taking. Thank you” Principal.</p>
 	      </div>
     	</div>
     </div>
@@ -55,27 +55,27 @@
           <img class="full-width-image"src="images/Image_G3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">FUNCTIONAL DESIGN</p>
-	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;">“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects” Headteacher.</p>
+            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">FUNCTIONAL DESIGN</p>
+	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;color:#ffffff;">“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects” Headteacher.</p>
           </div>
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">ROBUST DESIGN</p>
-	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;">“E3 Cube presented a critical appraisal of the built up and surface options available in terms of longevity, performance and cost, enabling us to make a fully informed decision. It was the right choice” Head of Faculty.</p>
+           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px; color:#ffffff;">ROBUST DESIGN</p>
+	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;color:#ffffff;">“E3 Cube presented a critical appraisal of the built up and surface options available in terms of longevity, performance and cost, enabling us to make a fully informed decision. It was the right choice” Head of Faculty.</p>
           </div>
         </div>
     </div>

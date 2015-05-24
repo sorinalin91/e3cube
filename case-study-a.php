@@ -6,19 +6,19 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">
-          <h2 class="image-title full-width-image-text">£1.6 MILLION PROJECT <br /> FINAL PHASE OF £2.5 MILLION INVESTMENT IN SPORT <br /> ENTIRE PROGRAMME DELIVERED TO BUDGET <span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title full-width-image-text" style="color:#131e29;">£1.6 MILLION PROJECT <br /> FINAL PHASE OF £2.5 MILLION INVESTMENT IN SPORT <br /> ENTIRE PROGRAMME DELIVERED TO BUDGET <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/Image_A_1680.jpg" style="height: auto;">
         </div>
     </div>
-    <div class="col-md-6 col-xs-6 light-background">
+    <div class="col-md-6 col-xs-6 light-background image">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 special-p">BREEAM Excellen</p>
+            <p class="padding-50-0-0-50 special-p">BREEAM Excellent</p>
             <p class="padding-left-50 special-p">CARBON NEGATIVE</p>
-            <p class="padding-left-50 special-p">314 PANEL / 512M2 PHOTOVOLTAIC ARRAY </p>
+            <p class="padding-left-50 special-p">314 PANEL / 512M<sup>2</sup> PHOTOVOLTAIC ARRAY </p>
           </div>
         </div>
     </div>
@@ -33,23 +33,23 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
-          <h2 class="image-title long-text-mobile" style="font-style: italic;">“E3 Cube led the design process and took the time to fully understand our requirements, going the extra mile to secure planning permission despite significant challenges. We are delighted with this latest addition to our offering which was delivered within a tight budget"<span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title long-text-mobile center-text-case-study-a" style="font-style: italic;">“E3 Cube led the design process and took the time to fully understand our requirements, going the extra mile to secure planning permission despite significant challenges. We are delighted with this latest addition to our offering which was delivered within a tight budget"<span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/ImageA3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 special-p">SPORT ENGLAND APPROVED</p>
-            <p class="padding-left-50 special-p">COMMUNITY SPORT</p>
-            <p class="padding-left-50 special-p">GRASS ROOTS</p>
+            <p class="padding-50-0-0-50 special-p" style="color:#ffffff">SPORT ENGLAND APPROVED</p>
+            <p class="padding-left-50 special-p" style="color:#ffffff">COMMUNITY SPORT</p>
+            <p class="padding-left-50 special-p" style="color:#ffffff">GRASS ROOTS</p>
           </div>
         </div>
     </div>
-    <div class="col-md-6 col-xs-6 light-background">
+    <div class="col-md-6 col-xs-6 light-background image">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">

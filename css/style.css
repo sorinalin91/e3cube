@@ -179,7 +179,7 @@ body {
     }
     .building-ul-margin{
       margin-left: 50px;
-      font-size: 1.2em;
+      font-size: 140%;
     }
     .right-column-mobile-width{
       width: 40%;
@@ -189,8 +189,48 @@ body {
       line-height: 20px;
     }
     .container-fluid h2.design-and-contract-management-h2-right{
-      font-size: 1.8em;
+      font-size: 30px;
       line-height: 25px;
+    }
+    .image1-css{
+      right: 0;
+      width: 55%;
+      left: auto !important;
+      padding-left: 250px;
+
+    }
+    .image4-css{
+      right: 0;
+      width: 60%;
+      left: auto !important;
+      padding-left: 300px;
+      margin-top: 500px;
+
+    }
+    .center-text-case-study-a{
+      padding-top: 25% !important;
+      padding-bottom: 25% !important;
+    }
+    .rics-logo{
+      position: absolute;
+      width: 25%;
+      height: 25%;
+      padding-bottom: 5px;
+    }
+    .navbar-brand img.img-responsive.logo.e3-logo{
+      margin-left: 50% !important;
+    }
+    footer .footer-tel{
+      font-size: 16px;
+    }
+     footer .email-h2{
+      font-size: 16px;
+    }
+    .copy {
+      font-size: 16px !important;
+      bottom: 0;
+      position: absolute;
+      color: #131e29;
     }
 }
  
@@ -268,7 +308,8 @@ body {
       margin: 10px 5px 0 0;
     }
     footer .footer-email{
-      font-size: 16px;
+      font-size: 14px;
+      text-decoration: none;
     }
     footer .footer-tel{
       font-size: 16px;
@@ -315,6 +356,34 @@ body {
     .container-fluid h2.design-and-contract-management-h2-right{
       font-size: 0.8em;
       line-height: 16px;
+    }
+     .image1-css{
+      right: 0;
+      width: 55%;
+      left: auto !important;
+    }
+    .image4-css{
+      right: 0;
+      width: 80%;
+      left: auto !important;
+      padding-left: 250px;
+      margin-top: 450px;
+    }
+    .rics-logo{
+      width: 50%;
+      height: 85%;
+      position: absolute;
+      padding-top: 0 !important;
+      padding-bottom: 5px !important;
+    }
+    img.img-responsive.logo.e3-logo{
+      margin-left: 0 !important;
+    }
+    .copy {
+      font-size: 12px !important;
+      bottom: 0;
+      position: absolute;
+      color: #131e29;
     }
 }
  
@@ -424,15 +493,15 @@ body {
       margin: 10px 5px 0 0;
     }
     footer .footer-email{
-      font-size: 11px;
+      font-size: 8px;
       margin-top: 10px;
     }
     footer .footer-tel{
-      font-size: 12px;
+      font-size: 10px;
       margin-top: 10px;
     }
     .dummy.dummy-footer{
-      padding-top: 220% !important;
+      padding-top: 110% !important;
     }
     footer .footer-grid-container{
       margin-top: 10px;
@@ -480,6 +549,29 @@ body {
       font-size: 0.6em;
       line-height: 8px;
     }
+     .image1-css{
+      right: auto !important;
+      width: 55%;
+      left: auto !important;
+    }
+    .container-fluid .mobile-top-padding{
+      padding-top: 0 !important;
+    }
+    .rics-logo{
+      width: 40%;
+      height: 60% !important;
+      position: absolute;
+      right: 0;
+      margin-right: 5px;
+      padding-top: 0 !important;
+    }
+    img.img-responsive.logo.e3-logo{
+      margin-left: 0 !important;
+    }
+    footer .grid-container .copy{
+      font-size: 8px !important;
+    }
+
 }
 
 .overflow{
@@ -573,7 +665,7 @@ h2{
   overflow: hidden;
 }
 .footer{
-  background: #58b7df;
+  background: #eef0f0;
 }
 a .img-responsive.32dim{
   padding: 0;
@@ -591,14 +683,14 @@ a .img-responsive.32dim{
 
 }
 footer .footer-h2{
-  color: white;
+  color:#131e29;
 }
 footer .footer-h2 span,a{
-  color:  #ffffff;
+  color:#131e29;
   text-decoration: none;
 }
 footer .footer-h2 a:hover{
-  color: #ffffff;
+  color:#131e29;
   text-decoration: none;
 }
 .footer-parteners{
@@ -632,4 +724,20 @@ footer .footer-h2 a:hover{
   background: url("../images/Image_J1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+}
+.download-link{
+  text-decoration: none;
+  color: #666 !important;
+}
+.download-link:active{
+  text-decoration: none;
+  color: #ffffff;
+}
+.download-link:hover{
+  text-decoration: none;
+  color: #ffffff;
+}
+.image:hover .download-h2{
+  color: #ffffff;
+  text-decoration: none;
 }

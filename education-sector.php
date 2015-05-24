@@ -6,20 +6,20 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
     <div class="grid-container strategic-12-col-grid-container">
-      <h2 class="image-title smaler-image-title-mobile " style="color:#ffffff;">EDUCATION SECTOR</h2>
-      <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#ffffff;">E3 Cube has a specialist team dedicated to the education sector, with over 90 years experience between them, providing a broad range of professional consultancy services to schools, academies, further education colleges and universities. You can rest assured, you’re in safe hands. <br /><br /> We understand the education drivers and are able to maximise Capital funding and rationalise the functional performance and statutory compliance of your estate. </h2>
+      <h2 class="image-title smaler-image-title-mobile " style="color:#131e29;">EDUCATION SECTOR</h2>
+      <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#131e29;">E3 Cube has a specialist team dedicated to the education sector, with over 90 years experience between them, providing a broad range of professional consultancy services to schools, academies, further education colleges and universities. You can rest assured, you’re in safe hands. <br /><br /> We understand the education drivers and are able to maximise Capital funding and rationalise the functional performance and statutory compliance of your estate. </h2>
     </div>
 </div>
-<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
 	      <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p"></span>
-	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">ACADEMIES </p>
+	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">ACADEMIES </p>
           <p class="padding-left-50" style="font-style:italic;">
-            <ul class="building-ul-margin">
+            <ul class="building-ul-margin" style="color:#ffffff;">
               <li>Support thought-out the conversion process.</li>
               <li>Prioritise building and condition needs.</li>
               <li>Compliance of the estate.</li>
@@ -34,7 +34,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.3%"></div>
         <div class="grid-container">
-          <h2 class="image-title strategic-12-col-grid-h2">“E3cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” Headteacher. </h2>
+          <h2 class="image-title strategic-12-col-grid-h2" style="color:#131e29;">“E3 Cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” Headteacher. </h2>
           <img class="full-width-image"src="images/Image_J2.jpg">
         </div>
     </div>
@@ -42,20 +42,20 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.3%"></div>
         <div class="grid-container">
-          <h2 class="image-title strategic-12-col-grid-h2">"E3 Cube have a detailed understanding of the challenges and needs within the Education Sector, being able to draw upon this knowledge has been invaluable" Vice Principal.</h2>
+          <h2 class="image-title strategic-12-col-grid-h2" style="color:#131e29;">"E3 Cube have a detailed understanding of the challenges and needs within the Education Sector, being able to draw upon this knowledge has been invaluable" Vice Principal.</h2>
           <img class="full-width-image"src="images/Image_J3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">FURTHER EDUCATION COLLEGES</p>
+            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">FURTHER EDUCATION COLLEGES</p>
             <p class="padding-left-50" style="font-style:italic;">
-              <ul class="building-ul-margin">
+              <ul class="building-ul-margin" style="color:#ffffff;">
                 <li>Master planning.</li>
                 <li>Maximise spatial efficiencies.</li>
                 <li>Curriculum modelling.</li>
@@ -68,16 +68,16 @@
           </div>
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">HIGHER EDUCATION INSTITUTIONS</p>
+           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">HIGHER EDUCATION INSTITUTIONS</p>
             <p class="padding-left-50" style="font-style:italic;">
-              <ul class="building-ul-margin">
+              <ul class="building-ul-margin" style="color:#ffffff;">
                 <li>Master planning.</li>
                 <li>Student experience.</li>
                 <li>Maximise spatial efficiencies.</li>
@@ -95,7 +95,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.5%"></div>
         <div class="grid-container">
-          <h2 class="image-title strategic-12-col-grid-h2">"TO BE OBTAINED FROM MARK ASKHAM" Associate Director, Estate Management.</h2>
+          <h2 class="image-title strategic-12-col-grid-h2" style="color:#131e29;">"TO BE OBTAINED FROM MARK ASKHAM" Associate Director, Estate Management.</h2>
           <img class="full-width-image"src="images/Image_J4.jpg">
         </div>
     </div>
