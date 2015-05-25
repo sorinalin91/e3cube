@@ -12,6 +12,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -35,7 +36,8 @@
       <a class="navbar-brand" href="https://www.linkedin.com/company/e3-cube-ltd" target="_blank"><img class="img-responsive connect" src="images/ln.png" ></a>
       <a class="navbar-brand" href="tel:03333 058 2918"><img class="img-responsive connect" src="images/phone.png" ></a>
       <a class="navbar-brand" href="mailto:enquiries@e3cube.co.uk"><img class="img-responsive connect" src="images/mail.png" ></a>
-      <a class="navbar-brand" href="#"><marquee class="news_special" behavior="scroll" direction="up" scrollamount="1">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</marquee></a>
+      <a class="navbar-brand" href="#"><div class="marquee title-marquee" data-direction='up' data-duration='3000' data-pauseOnHover="true">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</div></a>
+        <!-- <marquee class="news_special" behavior="scroll" direction="up" scrollamount="1">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</marquee></a> -->
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->

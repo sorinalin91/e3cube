@@ -38,7 +38,8 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy dummy-footer copy-footer" style="padding-top:30%"></div>
   <div class="grid-container footer-grid-container">
-    <marquee behavior="scroll" direction="left" class="copy" style="color:#ffffff;">&copy; All rights reserved. E3 Cube Ltd. Incorporated in England &amp; Wales, No.8524588. Registered Office: 23 Meridian Business Village, Hunts Cross, Liverpool, L24 9LG.</marquee>
+    <div class="marquee" class="copy" style="color:#ffffff;">&copy; All rights reserved. E3 Cube Ltd. Incorporated in England &amp; Wales, No.8524588. Registered Office: 23 Meridian Business Village, Hunts Cross, Liverpool, L24 9LG.</div>
+    <!-- <marquee behavior="scroll" direction="left" class="copy" style="color:#ffffff;">&copy; All rights reserved. E3 Cube Ltd. Incorporated in England &amp; Wales, No.8524588. Registered Office: 23 Meridian Business Village, Hunts Cross, Liverpool, L24 9LG.</marquee> -->
   </div>
 </div>
 </footer>
@@ -47,6 +48,8 @@
 </div>     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type='text/javascript' src='js/jquery.marquee.min.js'></script>
+
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
@@ -54,6 +57,11 @@
     $('.carousel').carousel({
         interval: 5000 //changes the speed
     })
+
+    $('.marquee').marquee({
+      duration: 20000,
+    });
+    $('.marquee.title-marquee').marquee();
     </script>
   </body>
 </html>

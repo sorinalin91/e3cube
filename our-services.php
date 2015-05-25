@@ -1,14 +1,14 @@
 <?php include 'templates/header.php' ?>
-<div class="container-fluid 94-case-study-p">
+<div class="container-fluid 94-case-study-p our-services">
 <div class="row">
 <div class="col-xs-6 col-md-6 col-lg-6 no-padding block-item ">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy" style="padding-top:69%"></div>
   <div class="grid-container first-box-h2">
-	  <div class="text-padding filter-hover-text">
+	  <div class="text-padding filter-hover-text top-box">
 	    <h2 class="padding-20-0-0-50">OUR SERVICES <span style="color:#58b7df;">&nbsp;></span></h2>
 	    <span class="blue-border hidden-mobile-p"></span>
-	    <p class="padding-50-0-0-50">We take time to understand your needs and integrate them into a bespoke service.</p><br />
+	    <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p><br />
 	    <p class="padding-left-50">As a practice we have the full range of disciplines within our team, ensuring you’re in safe hands from concept to completion.</p><br />
 	    <p class="padding-left-50 hidden-mobile-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p>
 	  </div>
@@ -18,10 +18,10 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy" style="padding-top:69%"></div>
   <div class="grid-container first-box-h2">
-	  <div class="text-padding filter-hover-text">
+	  <div class="text-padding filter-hover-text top-box">
       <h2 class="padding-20-0-0-50">&nbsp;</h2>
 	    <span class="blue-border hidden-mobile-p"></span>
-	    <p class="padding-50-0-0-50">As a practice we have the full range of skills within our team, ensuring you’re in safe hands from concept to completion.</p><br />
+	    <p class="padding-50-0-0-50 our-services-first-p">As a practice we have the full range of skills within our team, ensuring you’re in safe hands from concept to completion.</p><br />
 	    <p class="padding-left-50 hidden-mobile-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p>
 	  </div>
   </div>

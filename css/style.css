@@ -126,7 +126,7 @@ body {
 	font-size: 140%;
   margin: 0;
 }
-@media all and (min-width: 960px) {
+@media all and (min-width: 1300px) {
     .carousel-caption h1 {
         font-size: 100px;
     }
@@ -140,7 +140,6 @@ body {
     }
     .left-inside-col{
       font-size: 13vw;
-
     }
     .right-inside-col h2{
       margin-right: 30px;
@@ -204,7 +203,7 @@ body {
       width: 60%;
       left: auto !important;
       padding-left: 300px;
-      margin-top: 500px;
+      margin-top: 350px;
 
     }
     .center-text-case-study-a{
@@ -236,8 +235,103 @@ body {
       padding-top: 2% !important;
       background-color: #131e29;
     }
+    .marquee{
+      font-size: 1em;
+    }
+    .title-marquee{
+      width: 650px;
+    }
 }
- 
+@media all and (max-width: 1299px) and (min-width: 960px) {
+    .dummy-footer.copy-footer {
+      padding-top: 3% !important;
+      background-color: #131e29;
+    }
+    footer .email-h2 {
+       font-size: 16px !important;
+    }
+    footer .footer-h2 {
+      padding: 0 !important;
+      margin: 10px 5px 0 0;
+    }
+    footer h2.footer-h2.email-h2{
+      margin-top: 10px;
+    }
+    footer h2.footer-h2.footer-tel{
+      margin-top: 10px;
+    }
+    footer .footer-tel{
+      font-size: 16px !important;
+    }
+    footer .dummy-footer{
+      padding-top: 40% !important;
+    }
+    .rics-logo {
+      position: absolute;
+      width: 25%;
+      height: 10%;
+      padding-bottom: 5px;
+    }
+    .blue-border {
+      margin: 30px 0 0px 50px;
+    }
+    .left-inside-col {
+      font-size: 13vw;
+    }
+    .right-inside-col {
+      margin-top: 11%;
+    }
+    .right-inside-col h2{
+      font-size: 2em;
+    }
+    .our-services .top-box p{
+      font-size: 100%;
+    }
+    .container-fluid .grid-container.first-box-h2 {
+      padding-top: 60px !important;
+    }
+    .container-fluid .grid-container.first-box-h2 .blue-border{
+      margin-top: 0 !important;
+    }
+    .container-fluid .grid-container.first-box-h2 .our-services-first-p{
+      padding: 10px 0 0 50px !important;
+    }
+    .connect {
+      margin-top: 7px;
+      width: 32px;
+      height: 35px !important;
+    }
+    .marquee{
+      font-size: 0.8em;
+    }
+    .title-marquee{
+      width: 650px;
+    }
+    .container-fluid h2 {
+      font-size: 26px;
+      padding: 0px 0 0 50px;
+      margin: 20px 0 0 0;
+    }
+     .carousel-caption h1 {
+        font-size: 80px;
+    }
+    .image4-css {
+      right: 0;
+      width: 70%;
+      left: auto !important;
+      padding-left: 300px;
+      margin-top: 400px;
+    }
+    .image1-css {
+      right: 50px;
+      width: 55%;
+      left: auto !important;
+      padding-left: 250px;
+    }
+    footer .footer-grid-container{
+      padding: 0 0 0 0px !important;
+    }
+} 
 @media all and (max-width: 959px) and (min-width: 600px) {
     .carousel-caption h1 {
         font-size: 65px;
@@ -246,7 +340,7 @@ body {
     	font-size: 32px;
     }
     .container-fluid h2{
-    	font-size: 26px;
+    	font-size: 22px;
     	padding: 20px 0 20px 0;
     }
     .container-fluid .image-title{
@@ -363,12 +457,12 @@ body {
     }
      .image1-css{
       right: 0;
-      width: 55%;
+      width: 65%;
       left: auto !important;
     }
     .image4-css{
       right: 0;
-      width: 80%;
+      width: 82%;
       left: auto !important;
       padding-left: 250px;
       margin-top: 450px;
@@ -391,6 +485,13 @@ body {
     }
     .dummy-footer.copy-footer{
       padding-top: 4% !important;
+      background-color: #131e29;
+    }
+    .title-marquee{
+      display: none;  
+    }
+    .dummy-footer.copy-footer {
+      padding-top: 3% !important;
       background-color: #131e29;
     }
 }
@@ -509,7 +610,7 @@ body {
       margin-top: 10px;
     }
     .dummy.dummy-footer{
-      padding-top: 110% !important;
+      padding-top: 80% !important;
     }
     footer .footer-grid-container{
       margin-top: 10px;
@@ -583,7 +684,15 @@ body {
       padding-top: 10% !important;
       background-color: #131e29;
     }
-
+    .title-marquee{
+      display: none;
+    }
+    .marquee{
+      font-size: 0.8em;
+    }
+    footer .footer-grid-container{
+      padding: 0 0 0 5px !important;
+    }
 }
 
 .overflow{
@@ -758,4 +867,12 @@ footer .footer-h2 a:hover{
 }
 .copy-footer-header{
   padding: 0 !important;
+}
+.marquee {
+  width: 100%;
+  overflow: hidden;
+  z-index: 9999;
+}
+.title-marquee{
+  margin-top: 20px;
 }
