@@ -21,8 +21,8 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
     <div class="grid-container">
-      <div class="text-padding filter-hover-text">
-        <span class="blue-border hidden-mobile-p case-study-94-font-size"></span>
+      <div class="text-padding filter-hover-text case-study-94-font-size case-study-padding-mobile">
+        <span class="blue-border hidden-mobile-p special-blue-border"></span>
         <p class="padding-50-0-0-50 first-p-without-title">MAXIMISE YOUR CHANCES OF FUNDING SUCCESS. WHAT OUR CLIENTS SAY:</p><br />
         <p class="padding-left-50 " style="font-style:italic;">“E3 Cube provide a full and comprehensive service and enabled us to secure £3M much needed funding” Headteacher</p><br>
         <p class="padding-left-50 " style="font-style:italic;">“E3 Cube have managed this process for us and their work has been timely, of a high standard and proactive. They are honest in their feedback and this has quickly established a firm level of trust” Business Manager</p>
@@ -33,8 +33,8 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
     <div class="grid-container">
-      <div class="text-padding filter-hover-text">
-        <span class="blue-border hidden-mobile-p"></span>
+      <div class="text-padding filter-hover-text case-study-94-font-size case-study-padding-mobile">
+        <span class="blue-border hidden-mobile-p special-blue-border"></span>
         <p class="padding-50-0-0-50 first-p-without-title" style="font-style:italic;">“Working with E3 Cube has been a professional pleasure. Their value lies in having people who understand the Education Sector and that is invaluable” Business Manager</p><br />
         <p class="padding-left-50" style="font-style:italic;">“On behalf of students, staff, parents and governors, a sincere thank you as I am sure we would not have got it without your knowledge and expertise” Headteacher</p><br />
         <p class="padding-left-50" style="font-style:italic;">"E3 Cube achieved the impossible in a very short period of time, securing the College significant levels of EFA funding for our new £5m Visitor Economy Centre" Vice Principal</p><br />
@@ -61,9 +61,9 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
   <div class="grid-container">
-      <div class="text-padding filter-hover-text">
-        <a href="images/Academy_Flyer_JF.PDF" target="_blank" class="download-link" style="text-decoration:none;"><h2 class="padding-20-0-0-50 download-h2">DOWNLOADS&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></h2></a>
-        <span class="blue-border hidden-mobile-p"></span>
+      <div class="text-padding filter-hover-text case-study-94-font-size">
+        <a href="images/Academy_Flyer_JF.PDF" target="_blank" class="download-link" style="text-decoration:none;"><h2 class="download-h2">DOWNLOADS&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></h2></a>
+        <span class="blue-border hidden-mobile-p special-blue-border"></span>
         <p class="padding-50-0-0-50 first-p-without-title mobile-top-padding">OUR TEAMS TRACK RECORD OF SECURING FUNDING INCLUDES<br>&nbsp; &#8226; ENHANCED RENEWAL GRANT FUND<br>&nbsp; &#8226; COLLEGE CAPITAL INVESTMENT FUND<br>&nbsp; &#8226; SKILLS INFRASTRUCTURE CAPITAL FUND<br>&nbsp; &#8226; COLLEGE CONDITION FUND<br>&nbsp; &#8226; BUILDING CONDITION IMPROVEMENT FUND<br>&nbsp; &#8226; ACADEMIES CAPITAL MAINTENANCE FUND<br>&nbsp; &#8226; CONDITION IMPROVEMENT FUND<br>&nbsp; &#8226; SPORT ENGLAND<br>&nbsp; &#8226; SALIX<br>&nbsp; &#8226; LOCAL ENTERPRISE PARTNERSHIP FUNDING<br>
       </div>
     </div>
