@@ -5,10 +5,10 @@
 <div class="col-md-12 col-xs-12 design-and-contract-management-12-col firs-full-width-image">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
-    <div class="grid-container strategic-12-col-grid-container">
+    <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2">
       <h2 class="image-title smaler-image-title-mobile " style="color:#131e29;">DESIGN AND CONTRACT MANAGEMENT</h2>
       <h2 class="image-title-12-col-right no-padding design-and-contract-management-h2-right smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#131e29;">Our experienced design team includes chartered building surveyors and architectural technicians, a combination of which provides a unique balance of practical functionality with architectural flare.<br /> <br />
-        <span class="design-and-contract-management-span" style="color:#131e29;">
+        <span class="design-and-contract-management-span desing-and-contract" style="color:#131e29;">
           <p>Our services include:-</p> 
           <p>Procurement Strategy / Contract Selection</p>
           <p>Programme and Phasing Strategies</p>
@@ -32,7 +32,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
-	      <div class="text-padding filter-hover-text">
+	      <div class="text-padding filter-hover-text desing-and-contract-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p"></span>
 	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">INSPIRED INTERIOR DESIGN</p>
@@ -59,7 +59,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text desing-and-contract-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">FUNCTIONAL DESIGN</p>
@@ -71,7 +71,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text desing-and-contract-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
            	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px; color:#ffffff;">ROBUST DESIGN</p>

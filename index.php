@@ -54,7 +54,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text strategic-planing-font-size">
             <h2 class="padding-20-0-0-50">ABOUT US <span style="color:#58b7df;">&nbsp;></span></h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50">E3 Cube is a specialist property consultancy. At the core of our success you will find our people.</p><br />
@@ -87,7 +87,7 @@
       <a href="case-study-94.php" class="full-div-link"></a>
       <div class="grid-container">
           <div class="text-padding ">
-          <div class="text-padding filter-hover-text-span">
+          <div class="text-padding filter-hover-text-span ">
             <span class="left-inside-col"><p>94%</p></span>
             <span class="right-inside-col">
               <h2>OF</h2>
@@ -103,7 +103,7 @@
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <a href="our-services.php" class="full-div-link"></a>
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text strategic-planing-font-size">
             <h2 class="padding-20-0-0-50">OUR SERVICES <span style="color:#58b7df;">&nbsp;></span></h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50">TAILORED WITH YOU IN MIND.</p>

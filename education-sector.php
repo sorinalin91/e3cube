@@ -5,7 +5,7 @@
 <div class="col-md-12 col-xs-12 education-12-col firs-full-width-image">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
-    <div class="grid-container strategic-12-col-grid-container">
+    <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2">
       <h2 class="image-title smaler-image-title-mobile " style="color:#131e29;">EDUCATION SECTOR</h2>
       <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#131e29;">E3 Cube has a specialist team dedicated to the education sector, with over 90 years experience between them, providing a broad range of professional consultancy services to schools, academies, further education colleges and universities. You can rest assured, you’re in safe hands. <br /><br /> We understand the education drivers and are able to maximise Capital funding and rationalise the functional performance and statutory compliance of your estate. </h2>
     </div>
@@ -14,10 +14,10 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
-	      <div class="text-padding filter-hover-text">
+	      <div class="text-padding filter-hover-text building-survey-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
-	        <span class="blue-border hidden-mobile-p"></span>
-	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">ACADEMIES </p>
+	        <span class="blue-border hidden-mobile-p building-survey-border"></span>
+	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding margin-bottom-none" style="margin-bottom: 5px;color:#ffffff;">ACADEMIES </p>
           <p class="padding-left-50" style="font-style:italic;">
             <ul class="building-ul-margin" style="color:#ffffff;">
               <li>Support thought-out the conversion process.</li>
@@ -50,10 +50,10 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text building-survey-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
-            <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">FURTHER EDUCATION COLLEGES</p>
+            <span class="blue-border hidden-mobile-p building-survey-border"></span>
+            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding margin-bottom-none" style="margin-bottom: 5px;color:#ffffff;">FURTHER EDUCATION COLLEGES</p>
             <p class="padding-left-50" style="font-style:italic;">
               <ul class="building-ul-margin" style="color:#ffffff;">
                 <li>Master planning.</li>
@@ -72,10 +72,10 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text building-survey-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
-            <span class="blue-border hidden-mobile-p"></span>
-           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">HIGHER EDUCATION INSTITUTIONS</p>
+            <span class="blue-border hidden-mobile-p building-survey-border"></span>
+           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding margin-bottom-none" style="margin-bottom: 5px;color:#ffffff;">HIGHER EDUCATION INSTITUTIONS</p>
             <p class="padding-left-50" style="font-style:italic;">
               <ul class="building-ul-margin" style="color:#ffffff;">
                 <li>Master planning.</li>

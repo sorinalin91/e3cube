@@ -5,7 +5,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy" style="padding-top:69%"></div>
   <div class="grid-container first-box-h2">
-	  <div class="text-padding filter-hover-text top-box">
+	  <div class="text-padding filter-hover-text top-box our-services-head-section">
 	    <h2 class="padding-20-0-0-50">OUR SERVICES <span style="color:#58b7df;">&nbsp;></span></h2>
 	    <span class="blue-border hidden-mobile-p"></span>
 	    <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p><br />

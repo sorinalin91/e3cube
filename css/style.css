@@ -241,6 +241,9 @@ body {
     .title-marquee{
       width: 650px;
     }
+    .desing-and-contract-font-size{
+      font-size: 140%;
+    }
 }
 @media all and (max-width: 1299px) and (min-width: 960px) {
     .dummy-footer.copy-footer {
@@ -350,6 +353,26 @@ body {
     .download-h2{
       padding-left: 20px !important;
     }
+    .strategic-planing-font-h2 h2 {
+      font-size: 140%;
+      margin-top: 50px;
+    }
+    .strategic-planing-font-size{
+      font-size: 80%;
+    }
+    .ul-title-padding{
+      padding: 50px 0 0 10px !important;
+    }
+    .building-survey-border{
+      margin: 30px 0 0 10px !important;
+    }
+    .desing-and-contract{
+      font-size: 65%;
+      line-height: 17px;
+    }
+    .desing-and-contract-font-size{
+      font-size: 80%;
+    }
 } 
 @media all and (max-width: 959px) and (min-width: 600px) {
     .carousel-caption h1 {
@@ -425,11 +448,11 @@ body {
       margin: 10px 5px 0 0;
     }
     footer .footer-email{
-      font-size: 14px;
+      font-size: 60%;
       text-decoration: none;
     }
     footer .footer-tel{
-      font-size: 16px;
+      font-size: 70%;
     }
     .dummy.dummy-footer{
       padding-top: 60% !important;
@@ -444,10 +467,11 @@ body {
       font-size: 124%;
     }
     .container-fluid .strategic-12-col-grid-container h2.special-h2-for-strategic{
-      font-size: 95% ;
+      font-size: 80% ;
     }
     .container-fluid .strategic-12-col-grid-container h2.image-title-12-col-right.no-padding{
       padding: 35px 0 0 10px;
+      font-size: 80%;
     }
     .container-fluid h2.image-title-12-col-right.no-padding.smaler-image-title-mobile.strategic-12-grid-h2{
       margin: 35px 0 0 10px;
@@ -526,7 +550,22 @@ body {
     .case-study-94-font-size{
       font-size: 85%;
     }
-
+    .strategic-planing-font-size{
+      font-size: 80%;
+    }
+    .our-services-head-section h2{
+      padding:20px 0 5px 0 !important;
+    }
+    .building-survey-font-size{
+      font-size: 80%;
+    }
+     .desing-and-contract{
+      font-size: 80%;
+      line-height: 15px;
+    }
+    .desing-and-contract-font-size{
+      font-size: 80%;
+    }
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
@@ -542,7 +581,7 @@ body {
     	padding: 0 0 0 20px;
     }
     .container-fluid h2{
-    	font-size: 18px;
+    	font-size: 65%;
     	padding: 10px 0 0 10px;
 
     }
@@ -625,10 +664,10 @@ body {
       padding-top: 100% !important;
     }
     .container-fluid .grid-container.first-box-h2{
-      padding-top: 50px !important;
+      padding-top: 45px !important;
     }
     .container-fluid h2.smaler-image-title-mobile{
-      font-size: 14px;
+      font-size: 13px;
     }
     footer .footer-h2{
       padding: 0;
@@ -664,7 +703,7 @@ body {
       padding-top: 55% !important;
     }
     .container-fluid h2.strategic-12-col-grid-h2{
-      font-size: 10px;
+      font-size: 65%;
     }
     .building-ul-margin{
       margin-left: 0px;
@@ -738,6 +777,23 @@ body {
     }
     .case-study-94-font-size{
       font-size: 65%; 
+    }
+    .text-padding.filter-hover-text.case-study-94-font-size.case-study-padding-mobile{
+      padding: 10px 5px 20px 5px !important;
+
+    }
+    .case-study-94-font-size .first-p-without-title{
+      padding-top: 0 !important;
+    }
+    .desing-and-contract{
+        font-size: 14px;
+        line-height: 6px;
+    }
+    .desing-and-contract-font-size{
+      font-size: 65%;
+    }
+    .margin-bottom-none{
+      margin-bottom: 0 !important;
     }
 }
 

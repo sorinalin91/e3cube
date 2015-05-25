@@ -21,8 +21,8 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
-            <span class="blue-border hidden-mobile-p case-study-padding-mobile"></span>
+          <div class="text-padding filter-hover-text case-study-padding-mobile">
+            <span class="blue-border hidden-mobile-p "></span>
             <p class="padding-50-0-0-50 special-p">TIRED AND LIFE CYCLE EXPIRED</p>
             <p class="padding-left-50 special-p">DISRUPTIVE ENVIRONMENT FOR TEACHING</p>
             <p class="padding-left-50 special-p">HIGH ENERGY BILLS</p>
