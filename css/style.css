@@ -335,6 +335,10 @@ body {
       padding-top: 20% !important;
       padding-bottom: 20% !important;
     }
+    .container-fluid h2.image-text-margin-top{
+      margin-top: 70px !important;
+    }
+
 } 
 @media all and (max-width: 959px) and (min-width: 600px) {
     .carousel-caption h1 {
@@ -344,7 +348,7 @@ body {
     	font-size: 32px;
     }
     .container-fluid h2{
-    	font-size: 22px;
+    	font-size: 20px;
     	padding: 20px 0 20px 0;
     }
     .container-fluid .image-title{
@@ -501,6 +505,9 @@ body {
     .container-fluid .case-study-padding-mobile{
       padding: 10px 30px 20px 20px !important;
     }
+    .container-fluid h2.image-text-margin-top{
+      margin-top: 30px !important;
+    }
 
 }
  
@@ -590,7 +597,7 @@ body {
       font-size: 16px !important;
     }
     h2.full-width-image-text.mobile-special-bigger-text{
-        font-size: 15px;
+        font-size: 13px;
         padding: 16px 0 0 10px;
     }
     .container-fluid p.first-p-without-title{
@@ -703,6 +710,9 @@ body {
     }
     .container-fluid .case-study-padding-mobile{
       padding: 10px 30px 20px 20px !important;
+    }
+    .container-fluid h2.image-text-margin-top{
+      margin-top: 40px !important;
     }
 }
 

@@ -6,7 +6,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">
-          <h2 class="image-title full-width-image-text mobile-special-bigger-text">94% OF CIF BIDS SUCCESSFUL <br /> SPECIALIST STRATEGIC CONSULTANTS EXPERTS AT DEVELOPING BUSINESS <br /> CASES IN SUPPORT OF CAPITAL GRANT FUNDING APPLICATIONS <br /> DETAILED KNOWLEDGE OF APPLICATION AND APPROVAL PROCESSES ACROSS A <br /> BOARD RANGE OF FUNDING STREAMS <span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title full-width-image-text mobile-special-bigger-text image-text-margin-top">94% OF CIF BIDS SUCCESSFUL <br /> SPECIALIST STRATEGIC CONSULTANTS EXPERTS AT DEVELOPING BUSINESS <br /> CASES IN SUPPORT OF CAPITAL GRANT FUNDING APPLICATIONS <br /> DETAILED KNOWLEDGE OF APPLICATION AND APPROVAL PROCESSES ACROSS A <br /> BOARD RANGE OF FUNDING STREAMS <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/ImageC1.jpg">
         </div>
     </div>
@@ -22,7 +22,7 @@
   <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
     <div class="grid-container">
       <div class="text-padding filter-hover-text">
-        <span class="blue-border hidden-mobile-p"></span>
+        <span class="blue-border hidden-mobile-p case-study-94-font-size"></span>
         <p class="padding-50-0-0-50 first-p-without-title">MAXIMISE YOUR CHANCES OF FUNDING SUCCESS. WHAT OUR CLIENTS SAY:</p><br />
         <p class="padding-left-50 " style="font-style:italic;">“E3 Cube provide a full and comprehensive service and enabled us to secure £3M much needed funding” Headteacher</p><br>
         <p class="padding-left-50 " style="font-style:italic;">“E3 Cube have managed this process for us and their work has been timely, of a high standard and proactive. They are honest in their feedback and this has quickly established a firm level of trust” Business Manager</p>
