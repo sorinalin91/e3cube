@@ -22,7 +22,7 @@
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text">
-            <span class="blue-border hidden-mobile-p"></span>
+            <span class="blue-border hidden-mobile-p case-study-padding-mobile"></span>
             <p class="padding-50-0-0-50 special-p">TIRED AND LIFE CYCLE EXPIRED</p>
             <p class="padding-left-50 special-p">DISRUPTIVE ENVIRONMENT FOR TEACHING</p>
             <p class="padding-left-50 special-p">HIGH ENERGY BILLS</p>
@@ -33,7 +33,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text case-study-padding-mobile">
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p">CONCEPT DEFINED</p>
             <p class="padding-left-50 special-p">BUILDABLITY DETERMINED </p>
@@ -50,7 +50,7 @@
     </div>
     <div class="col-xs-7 col-md-7 col-lg-7 no-padding block-item">
       <div class="nav-bg-filter filter-hover"></div>
-      <div class="dummy" style="padding-top:69.1%"></div>
+      <div class="dummy" style="padding-top:69%"></div>
         <div class="grid-container">
           <img class="full-width-image"src="images/ImageB5.jpg">
         </div>
@@ -59,7 +59,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text">
+          <div class="text-padding filter-hover-text case-study-padding-mobile">
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 special-p" style="font-style: italic;">“E3cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” <br /> <br />“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects”
 </p>
