@@ -31,6 +31,7 @@
       </button> -->
       <a class="navbar-brand" href="index.php"><img class="img-responsive logo" src="images/logo.png"></a>
       <a class="navbar-brand" href="https://www.facebook.com/E3CubeLtd" target="_blank"><img class="img-responsive connect" src="images/fb.png" ></a>
+      <a class="navbar-brand" href="https://www.twitter.com" target="_blank"><img class="img-responsive connect" src="images/twitter.png" ></a>
       <a class="navbar-brand" href="https://www.linkedin.com/company/e3-cube-ltd" target="_blank"><img class="img-responsive connect" src="images/ln.png" ></a>
       <a class="navbar-brand" href="tel:03333 058 2918"><img class="img-responsive connect" src="images/phone.png" ></a>
       <a class="navbar-brand" href="mailto:enquiries@e3cube.co.uk"><img class="img-responsive connect" src="images/mail.png" ></a>

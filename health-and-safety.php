@@ -17,10 +17,10 @@
 	      <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p"></span>
-	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="color:#ffffff;">Competence.</p>
-          <p class="padding-left-50" style="color:#ffffff;">Comply with statutory duties.</p>
-          <p class="padding-left-50" style="color:#ffffff;">Risk removal or mitigation.</p>
-	        <p class="padding-left-50" style="color:#ffffff;">Safety during the construction, maintenance and occupation. </p>
+	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="color:#ffffff;">Competence</p>
+          <p class="padding-left-50" style="color:#ffffff;">Comply with statutory duties</p>
+          <p class="padding-left-50" style="color:#ffffff;">Risk removal or mitigation</p>
+	        <p class="padding-left-50" style="color:#ffffff;">Safety during the construction, maintenance and occupation </p>
 	      </div>
     	</div>
     </div>
@@ -46,10 +46,10 @@
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="color:#ffffff;">Training. </p>
-          <p class="padding-left-50 strategic-12-grid-p" style="color:#ffffff;">Support.</p>
-          <p class="padding-left-50 strategic-12-grid-p" style="color:#ffffff;">Advice.</p>
-	        <p class="padding-left-50 strategic-12-grid-p" style="color:#ffffff;">Guidance.</p>
+            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="color:#ffffff;">Training</p>
+          <p class="padding-left-50 strategic-12-grid-p" style="color:#ffffff;">Support</p>
+          <p class="padding-left-50 strategic-12-grid-p" style="color:#ffffff;">Advice</p>
+	        <p class="padding-left-50 strategic-12-grid-p" style="color:#ffffff;">Guidance</p>
           </div>
         </div>
     </div>
@@ -60,7 +60,7 @@
           <div class="text-padding filter-hover-text">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">Work place assessments.</p>
+           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">Work place assessments</p>
           </div>
         </div>
     </div>

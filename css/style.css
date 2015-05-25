@@ -230,7 +230,11 @@ body {
       font-size: 16px !important;
       bottom: 0;
       position: absolute;
-      color: #131e29;
+      color: #ffffff;
+    }
+    .dummy-footer.copy-footer{
+      padding-top: 2% !important;
+      background-color: #131e29;
     }
 }
  
@@ -384,6 +388,10 @@ body {
       bottom: 0;
       position: absolute;
       color: #131e29;
+    }
+    .dummy-footer.copy-footer{
+      padding-top: 4% !important;
+      background-color: #131e29;
     }
 }
  
@@ -571,6 +579,10 @@ body {
     footer .grid-container .copy{
       font-size: 8px !important;
     }
+    .dummy-footer.copy-footer{
+      padding-top: 10% !important;
+      background-color: #131e29;
+    }
 
 }
 
@@ -665,7 +677,10 @@ h2{
   overflow: hidden;
 }
 .footer{
-  background: #eef0f0;
+  background: -webkit-linear-gradient(lightgray, #131e29); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(lightgray, #131e29); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(lightgray, #131e29); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(lightgray, #131e29); /* Standard syntax */
 }
 a .img-responsive.32dim{
   padding: 0;
@@ -683,14 +698,14 @@ a .img-responsive.32dim{
 
 }
 footer .footer-h2{
-  color:#131e29;
+  color:#ffffff;
 }
 footer .footer-h2 span,a{
-  color:#131e29;
+  color:#ffffff;
   text-decoration: none;
 }
 footer .footer-h2 a:hover{
-  color:#131e29;
+  color:#ffffff;
   text-decoration: none;
 }
 .footer-parteners{
@@ -740,4 +755,7 @@ footer .footer-h2 a:hover{
 .image:hover .download-h2{
   color: #ffffff;
   text-decoration: none;
+}
+.copy-footer-header{
+  padding: 0 !important;
 }
