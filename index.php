@@ -58,7 +58,7 @@
             <h2 class="padding-20-0-0-50">ABOUT US <span style="color:#58b7df;">&nbsp;></span></h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50">E3 Cube is a specialist property consultancy. At the core of our success you will find our people.</p><br />
-            <p class="padding-left-50">Our focus is on providing quality, tailor-made services to each and every client.</p>
+            <p class="padding-left-50">Our focus is on providing quality, tailor-made services to each and every client.</p><br />
             <p class="padding-left-50 hidden-mobile-p">We are passionate and imaginative in our approach, adding value to every project. </p>
           </div>
         </div>

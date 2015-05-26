@@ -217,7 +217,6 @@ body {
       padding-bottom: 5px;
     }
     .navbar-brand img.img-responsive.logo.e3-logo{
-      margin-left: 50% !important;
     }
     footer .footer-tel{
       font-size: 16px;
@@ -226,14 +225,14 @@ body {
       font-size: 16px;
     }
     .copy {
-      font-size: 16px !important;
+      font-size: 12px !important;
       bottom: 0;
       position: absolute;
       color: #ffffff;
     }
     .dummy-footer.copy-footer{
       padding-top: 2% !important;
-      background-color: #131e29;
+      background-color: lightgray;
     }
     .marquee{
       font-size: 1em;
@@ -248,10 +247,16 @@ body {
 @media all and (max-width: 1299px) and (min-width: 960px) {
     .dummy-footer.copy-footer {
       padding-top: 3% !important;
-      background-color: #131e29;
+      background-color: lightgray;
     }
     footer .email-h2 {
        font-size: 16px !important;
+    }
+    footer .logo{
+      height: 40%;
+    }
+    .copy{
+      font-size: 10px;
     }
     footer .footer-h2 {
       padding: 0 !important;
@@ -267,7 +272,7 @@ body {
       font-size: 16px !important;
     }
     footer .dummy-footer{
-      padding-top: 40% !important;
+      padding-top: 13% !important;
     }
     .rics-logo {
       position: absolute;
@@ -455,7 +460,7 @@ body {
       font-size: 70%;
     }
     .dummy.dummy-footer{
-      padding-top: 60% !important;
+      padding-top: 15% !important;
     }
     .container-fluid .our-services-dummy-boxes{
       padding-top: 100% !important;
@@ -519,9 +524,10 @@ body {
     }
     img.img-responsive.logo.e3-logo{
       margin-left: 0 !important;
+      height: 35%;
     }
     .copy {
-      font-size: 12px !important;
+      font-size: 8px !important;
       bottom: 0;
       position: absolute;
       color: #131e29;
@@ -536,6 +542,7 @@ body {
     .dummy-footer.copy-footer {
       padding-top: 3% !important;
       background-color: #131e29;
+      padding-bottom: 1% !important;
     }
     .container-fluid .case-study-padding-mobile{
       padding: 10px 30px 20px 20px !important;
@@ -682,7 +689,7 @@ body {
       margin-top: 10px;
     }
     .dummy.dummy-footer{
-      padding-top: 85% !important;
+      padding-top: 18% !important;
     }
     footer .footer-grid-container{
       margin-top: 10px;
@@ -750,11 +757,12 @@ body {
       margin-left: 0 !important;
     }
     footer .grid-container .copy{
-      font-size: 8px !important;
+      font-size: 5px !important;
     }
     .dummy-footer.copy-footer{
-      padding-top: 10% !important;
-      background-color: #131e29;
+      padding-top: 3% !important;
+      padding-bottom: 3% !important;
+      background-color: lightgray;
     }
     .title-marquee{
       display: none;
@@ -795,13 +803,28 @@ body {
     .margin-bottom-none{
       margin-bottom: 0 !important;
     }
+    footer img.img-responsive.logo.e3-logo{
+      height: 60% !important;
+      margin: 0 !important;
+      padding: 0;
+    }
 }
 
 .overflow{
 	overflow: hidden;
 }
 .carousel-indicators li{
-	display: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 0;
+  border: 1px solid #131e29;
+}
+.carousel-indicators .active {
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  background-color: #131e29;
+  border: 1px solid #131e29;
 }
 .padding-20-0-0-50{
 	padding: 20px 0 0 50px;
@@ -829,7 +852,7 @@ h2{
   z-index: 1;
 }
 .nav-bg-filter {
-  background: none repeat scroll 0 0 #131e29;
+  background: none repeat scroll 0 0 lightgray;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -888,10 +911,10 @@ h2{
   overflow: hidden;
 }
 .footer{
-  background: -webkit-linear-gradient(lightgray, #131e29); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(lightgray, #131e29); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(lightgray, #131e29); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(lightgray, #131e29); /* Standard syntax */
+  background: -webkit-linear-gradient(#131e29, lightgray); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#131e29, lightgray); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#131e29, lightgray); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#131e29, lightgray); /* Standard syntax */
 }
 a .img-responsive.32dim{
   padding: 0;
@@ -970,6 +993,10 @@ footer .footer-h2 a:hover{
 .copy-footer-header{
   padding: 0 !important;
 }
+.copy{
+  bottom: 0;
+  position: absolute;
+}
 .marquee {
   width: 100%;
   overflow: hidden;
@@ -977,4 +1004,15 @@ footer .footer-h2 a:hover{
 }
 .title-marquee{
   margin-top: 20px;
+}
+.icon-next{
+  font-size: 500% !important;
+}
+.icon-prev{
+  font-size: 500% !important;
+}
+footer .logo{
+  position: absolute;
+  right: 10px;
+  top: 0;
 }
