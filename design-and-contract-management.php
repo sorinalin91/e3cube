@@ -28,15 +28,15 @@
       </h2>
     </div>
 </div>
-<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;"> 
+<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image"> 
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
 	      <div class="text-padding filter-hover-text desing-and-contract-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p"></span>
-	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">INSPIRED INTERIOR DESIGN</p>
-	        <p class="padding-left-50" style="font-style:italic;color:#ffffff;">“The result is just breath-taking. Thank you” Principal.</p>
+	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">INSPIRED INTERIOR DESIGN</p>
+	        <p class="padding-left-50" style="font-style:italic;">“The result is just breath-taking. Thank you” Principal.</p>
 	      </div>
     	</div>
     </div>
@@ -55,27 +55,27 @@
           <img class="full-width-image"src="images/Image_G3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text desing-and-contract-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;color:#ffffff;">FUNCTIONAL DESIGN</p>
-	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;color:#ffffff;">“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects” Headteacher.</p>
+            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">FUNCTIONAL DESIGN</p>
+	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;">“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects” Headteacher.</p>
           </div>
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text desing-and-contract-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
-           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px; color:#ffffff;">ROBUST DESIGN</p>
-	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;color:#ffffff;">“E3 Cube presented a critical appraisal of the built up and surface options available in terms of longevity, performance and cost, enabling us to make a fully informed decision. It was the right choice” Head of Faculty.</p>
+           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">ROBUST DESIGN</p>
+	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;">“E3 Cube presented a critical appraisal of the built up and surface options available in terms of longevity, performance and cost, enabling us to make a fully informed decision. It was the right choice” Head of Faculty.</p>
           </div>
         </div>
     </div>

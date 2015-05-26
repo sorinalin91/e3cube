@@ -31,7 +31,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="strategic-planning.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;">STRATEGIC PLANNING<br />CAPITAL FINDING SUPPORT<br />MASTER PLANNING<br /></h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">STRATEGIC PLANNING<br />CAPITAL FINDING SUPPORT<br />MASTER PLANNING<br /></h2>
     <img class="full-width-image"src="images/ImageD1.jpg">
   </div>
 </div>
@@ -40,7 +40,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="building-surveying.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;">BUILDING SURVEYING CONSULTANCY</h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">BUILDING SURVEYING CONSULTANCY</h2>
     <img class="full-width-image"src="images/ImageD6.jpg">
   </div>
 </div>
@@ -49,7 +49,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="design-and-contract-management.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;">DESIGN AND CONTRACT MANAGEMENT</h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">DESIGN AND CONTRACT MANAGEMENT</h2>
      <img class="full-width-image"src="images/ImageD3.jpg">
   </div>
 </div>
@@ -58,7 +58,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="access-consultancy.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;">ACCESS &amp; EQUALITY CONSULTANCY</h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">ACCESS &amp; EQUALITY CONSULTANCY</h2>
      <img class="full-width-image"src="images/ImageD4.jpg">
   </div>
 </div>
@@ -67,7 +67,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="health-and-safety.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;">HEALTH &amp; SAFETY</h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">HEALTH &amp; SAFETY</h2>
      <img class="full-width-image"src="images/ImageD5.jpg">
   </div>
 </div>
@@ -76,7 +76,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="education-sector.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;">EDUCATION SECTOR</h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">EDUCATION SECTOR</h2>
      <img class="full-width-image"src="images/ImageD2.jpg">
   </div>
 </div>

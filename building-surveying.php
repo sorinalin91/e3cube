@@ -10,16 +10,16 @@
       <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#ffffff;width:38%;">Our experienced Chartered Building Surveyors specialise in the maintenance and care of buildings, offering solutions to mmaintain the value, functionality and statutory compliance of buildings, as an important part of assert management and business continuity for any property owner, Landlord or occupier. </h2>
     </div>
 </div>
-<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
+<div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
 	      <div class="text-padding filter-hover-text building-survey-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p building-survey-border"></span>
-	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding" style="margin-bottom: 5px;color:#ffffff; ">BUILDING SURVEYS</p>
+	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding" style="margin-bottom: 5px; ">BUILDING SURVEYS</p>
 	        <p class="padding-left-50" style="font-style:italic;">
-	        	<ul class="building-ul-margin" style="color:#ffffff;">
+	        	<ul class="building-ul-margin" >
 	        		<li>Pre-acquisition surveys</li>
 	        		<li>Principle defects surveys</li>
 	        		<li>Habitable condition surveys</li>
@@ -47,16 +47,16 @@
           <img class="full-width-image"src="images/Image_F3.jpg">
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background image">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text building-survey-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p building-survey-border"></span>
-            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding" style="margin-bottom: 5px;color:#ffffff;">SPECIALIST PROFESSIONAL SERVICES</p>
+            <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding" style="margin-bottom: 5px;">SPECIALIST PROFESSIONAL SERVICES</p>
 	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;">
-	        	<ul class="building-ul-margin" style="color:#ffffff;">
+	        	<ul class="building-ul-margin" >
 	        		<li>Party wall &amp; neighbourly matters.</li>
 	        		<li>Dilapidations - landlord and tenant. </li>
 	        		<li>Subsidence &amp; insurance advice. </li>
@@ -64,16 +64,16 @@
           </div>
         </div>
     </div>
-    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background" style="background-color:#131e29;">
+    <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
           <div class="text-padding filter-hover-text building-survey-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p building-survey-border"></span>
-           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding" style="margin-bottom: 5px;color:#ffffff;">STATUTORY COMPLIANCE </p>
+           	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding" style="margin-bottom: 5px;">STATUTORY COMPLIANCE </p>
 	        <p class="padding-left-50 strategic-12-grid-p" style="font-style:italic;">
-	        	<ul class="building-ul-margin" style="color:#ffffff;">
+	        	<ul class="building-ul-margin" >
 	        		<li>Statutory compliance surveys</li>
 	        		<li>Fire risk assessments </li>
 	        		<li>Falls from height risk assessments. </li>

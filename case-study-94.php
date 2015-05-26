@@ -62,9 +62,11 @@
   <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
   <div class="grid-container">
       <div class="text-padding filter-hover-text case-study-94-font-size">
-        <a href="images/Academy_Flyer_JF.PDF" target="_blank" class="download-link" style="text-decoration:none;"><h2 class="download-h2">DOWNLOADS&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></h2></a>
+        <!-- <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2> -->
         <span class="blue-border hidden-mobile-p special-blue-border"></span>
         <p class="padding-50-0-0-50 first-p-without-title mobile-top-padding">OUR TEAMS TRACK RECORD OF SECURING FUNDING INCLUDES<br>&nbsp; &#8226; ENHANCED RENEWAL GRANT FUND<br>&nbsp; &#8226; COLLEGE CAPITAL INVESTMENT FUND<br>&nbsp; &#8226; SKILLS INFRASTRUCTURE CAPITAL FUND<br>&nbsp; &#8226; COLLEGE CONDITION FUND<br>&nbsp; &#8226; BUILDING CONDITION IMPROVEMENT FUND<br>&nbsp; &#8226; ACADEMIES CAPITAL MAINTENANCE FUND<br>&nbsp; &#8226; CONDITION IMPROVEMENT FUND<br>&nbsp; &#8226; SPORT ENGLAND<br>&nbsp; &#8226; SALIX<br>&nbsp; &#8226; LOCAL ENTERPRISE PARTNERSHIP FUNDING<br>
+        <h2 class="download-h2" style="margin-bottom:0 !important; padding-bottom: 5px !important;">DOWNLOADS&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></h2>
+        <a href="images/Academy_Flyer_JF.PDF" target="_blank" class="download-link" style="text-decoration:none;"><h2 class="download-h2" style="margin:0; padding-top: 0 !important;">Funding Brochure&nbsp;&nbsp;&nbsp;</h2></a>
       </div>
     </div>
 </div>
