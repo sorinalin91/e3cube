@@ -243,6 +243,52 @@ body {
     .desing-and-contract-font-size{
       font-size: 140%;
     }
+    .menu-clasic li{
+      font-size: 140%;
+    }
+
+/*----------- MENU-----------*/   
+    nav p.go-to-for-hover{
+        z-index:999;
+        position: absolute;
+        width: 80px;
+        height: 40px;
+        background-color: #131e29;
+        color: #ffffff;
+        left: 0;
+        margin-top: 45px;
+        padding: 10px 5px 5px 10px;
+        text-decoration: none;
+        font-size: 120%;
+    }
+    .menu li{
+        list-style:none;
+        color: #ffffff;
+        float: left;
+        margin-right: 20px;
+        padding-top: 7px;
+
+    }
+    nav.menu-clasic:hover  {
+        top: 70px;
+    }
+    nav.menu-clasic {
+        top: 25px;
+        position: absolute;
+        z-index: 1;
+        background-color: #131e29;
+        left: 0;
+        text-align: left;
+        width: 1500px;
+        height: 55px;
+        -webkit-transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        transition: all 1s ease-in-out;
+    }
+     #hidded-padding{
+      display: none;
+    }
 }
 @media all and (max-width: 1299px) and (min-width: 960px) {
     .dummy-footer.copy-footer {
@@ -377,6 +423,50 @@ body {
     }
     .desing-and-contract-font-size{
       font-size: 80%;
+    }
+
+/*------------MENU-----------*/
+    nav p.go-to-for-hover{
+          z-index:999;
+          position: absolute;
+          width: 80px;
+          height: 35px;
+          background-color: #131e29;
+          color: #ffffff;
+          left: 0;
+          margin-top: 30px;
+          padding: 10px 5px 5px 10px;
+          text-decoration: none;
+          font-size: 120%;
+    }
+    .menu li{
+        list-style:none;
+        color: #ffffff;
+        float: left;
+        margin-right: 20px;
+        padding-top: 7px;
+        font-size: 85%;
+
+    }
+    nav.menu-clasic:hover  {
+        top: 40px;
+    }
+    nav.menu-clasic {
+        top: 0px;
+        position: absolute;
+        z-index: 1;
+        background-color: #131e29;
+        left: 0;
+        text-align: left;
+        width: 1000px;
+        height: 40px;
+        -webkit-transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        transition: all 1s ease-in-out;
+    }
+    #hidded-padding{
+      display: none;
     }
 } 
 @media all and (max-width: 959px) and (min-width: 600px) {
@@ -573,6 +663,47 @@ body {
     .desing-and-contract-font-size{
       font-size: 80%;
     }
+    /*------------MENU-----------*/
+    nav p.go-to-for-hover{
+          z-index:999;
+          position: absolute;
+          width: 80px;
+          height: 35px;
+          background-color: #131e29;
+          color: #ffffff;
+          left: 0;
+          margin-top: 30px;
+          padding: 10px 5px 5px 10px;
+          text-decoration: none;
+          font-size: 120%;
+    }
+    .menu li{
+        list-style:none;
+        color: #ffffff;
+        float: left;
+        margin-right: 10px;
+        padding-top: 7px;
+        font-size: 73%;
+
+    }
+    nav.menu-clasic:hover  {
+        top: 40px;
+    }
+    nav.menu-clasic {
+        top: 5px;
+        position: absolute;
+        z-index: 1;
+        background-color: #131e29;
+        left: 0;
+        text-align: left;
+        width: 800px;
+        height: 40px;
+        -webkit-transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        transition: all 1s ease-in-out;
+    }
+
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
@@ -808,6 +939,48 @@ body {
       margin: 0 !important;
       padding: 0;
     }
+     /*------------MENU-----------*/
+    nav p.go-to-for-hover{
+          z-index:998;
+          position: relative;
+          width: 80px;
+          height: 35px;
+          background-color: #131e29;
+          color: #ffffff;
+          left: 0;
+          margin-top:5px;
+          padding: 10px 5px 5px 10px;
+          text-decoration: none;
+          font-size: 100%;
+    }
+    .menu li{
+        list-style:none;
+        color: #ffffff;
+        margin-right: 10px;
+        padding-top: 7px;
+        font-size: 120%;
+
+    }
+    nav.menu-clasic:hover  {
+        top: 100px;
+    }
+    nav.menu-clasic {
+        top: -210px;
+        position: absolute;
+        z-index: 1;
+        background-color: #131e29;
+        left: 0;
+        text-align: left;
+        width: 300px;
+        height: 260px;
+        -webkit-transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        transition: all 1s ease-in-out;
+    }
+    #hidded-padding{
+        top: 170px;
+    }
 }
 
 .overflow{
@@ -1022,3 +1195,57 @@ footer .logo{
 .bottom-10{
   bottom: 10px;
 }
+
+.container-fluid{
+  position: relative;
+  z-index: 0;
+}
+
+/*-----------------MENU-----------------------------------------------------*/
+.menu li a{
+  text-decoration: none;
+}
+#hidded-padding{
+  padding: 50px 50px 100px 50px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  z-index: 999;
+}
+/*nav p.go-to-for-hover{
+      z-index:999;
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    background-color: #131e29;
+    color: #ffffff;
+    left: 0;
+    margin-top: 3px;
+    padding: 5px 5px 5px 10px;
+    text-decoration: none;
+}
+.menu li{
+    list-style:none;
+    color: #ffffff;
+    float: left;
+    margin-right: 20px;
+    padding-top: 7px;
+
+}
+nav.menu-clasic:hover  {
+    top: 80px;
+}
+nav.menu-clasic {
+    top: 40px;
+    position: relative;
+    z-index: 1;
+    background-color: #131e29;
+    left: 0;
+    text-align: left;
+    width: 1500px;
+    height: 40px;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}*/

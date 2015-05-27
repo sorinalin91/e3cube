@@ -49,3 +49,19 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+<nav class="menu-clasic">
+    <div class="" id="hoverzone">
+      <ul class="menu">
+          <li><a href="index.php">Home</a></li>
+          <li><a href="case-study-94.php">Funding Support</a></li>
+          <li><a href="strategic-planning.php">Strategic Planning</a></li>
+          <li><a href="building-surveying.php">Building Surveying Consultancy</a></li>
+          <li><a href="design-and-contract-management.php">Design and Contract Management</a></li>
+          <li><a href="access-consultancy.php">Access &amp; Equality Consultancy</a></li>
+          <li><a href="health-and-safety.php">Health &amp; Safety</a></li>
+          <li><a href="education-sector.php">Education Sector</a></li>
+      </ul>
+    </div>
+    <p href="" class="go-to-for-hover" id="hover-element">GO TO  <span style="color:#58b7df;">></span></p>
+    <div id="hidded-padding"></div>
+</nav>

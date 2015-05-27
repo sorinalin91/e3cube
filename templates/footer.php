@@ -36,7 +36,7 @@
     <script src="js/main.js"></script>
     <script>
     $('.carousel').carousel({
-        interval: 5000 //changes the speed
+        interval: 10000 //changes the speed
     })
 
     $('.marquee').marquee({
