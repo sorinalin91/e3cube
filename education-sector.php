@@ -15,7 +15,7 @@
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
 	      <div class="text-padding filter-hover-text building-survey-font-size">
-            <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
+          <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p building-survey-border"></span>
 	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding margin-bottom-none" style="margin-bottom: 5px;">ACADEMIES </p>
           <p class="padding-left-50" style="font-style:italic;">
@@ -26,6 +26,7 @@
               <li>Manage liabilities.</li>
               <li>Securing Capital funding from the EFA.</li>
               <li>Support with strategic planning for Trusts.</li>
+            </ul>  
           </p>
 	      </div>
     	</div>

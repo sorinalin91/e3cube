@@ -28,6 +28,7 @@
 	        		<li>Condition surveys </li>
 	        		<li>Schedule of condition</li>
 	        		<li>Defect analysis &amp; diagnosis surveys </li>
+            </ul>  
 	        </p>
 	      </div>
     	</div>

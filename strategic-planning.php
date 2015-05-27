@@ -34,7 +34,24 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.4%"></div>
         <div class="grid-container">
-          <h2 class="image-title strategic-12-col-grid-h2" style="color:#131e29;">EXPERTS IN FUNDING, INCLUDING:<br />ENHANCED RENEWAL GRANT FUND<br />COLLEGE CAPITAL INVESTMENT FUND<br />SKILLS INFRASTRUCTURE CAPITAL FUND<br />COLLEGE CONDITION FUND<br />BUILDING CONDITION IMPROVEMENT FUND<br />ACADEMIES CAPITAL MAINTENANCE FUND<br />CONDITION IMPROVEMENT FUND<br />SPORT ENGLAND<br />SALIX<br />LOCAL ENTERPRISE PARTNERSHIP FUNDING</h2>
+          <div class="text-padding filter-hover-text strategic-planing-ul" style="color:#131e29; font-weight:bold;">
+          <h2 class="padding-20-0-0-50 nbsp-h2 hidden-mobile-p">&nbsp;</h2>
+          <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding margin-bottom-none" style="margin-bottom: 5px;">EXPERTS IN FUNDING, INCLUDING:  </p>
+          <p class="padding-left-50" style="font-style:italic;">
+            <ul class="building-ul-margin" >
+              <li>ENHANCED RENEWAL GRANT FUND</li>
+              <li>COLLEGE CAPITAL INVESTMENT FUND</li>
+              <li>SKILLS INFRASTRUCTURE CAPITAL FUND</li>
+              <li>COLLEGE CONDITION FUND</li>
+              <li>BUILDING CONDITION IMPROVEMENT FUND</li>
+              <li>ACADEMIES CAPITAL MAINTENANCE FUND</li>
+              <li>CONDITION IMPROVEMENT FUND</li>
+              <li>SPORT ENGLAND</li>
+              <li>SALIX</li>
+              <li>LOCAL ENTERPRISE PARTNERSHIP FUNDING</li>
+            </ul>  
+          </p>
+        </div>
           <img class="full-width-image"src="images/Image_E3.jpg">
         </div>
     </div>
@@ -66,7 +83,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.5%"></div>
         <div class="grid-container">
-          <h2 class="image-title strategic-12-col-grid-h2">BBG ACADEMY <br />WINDOW RENEWAL &amp; KITCHEN REFURBISHMENT PROJECT</h2>
+          <h2 class="image-title strategic-12-col-grid-h2 bottom-10">BBG ACADEMY <br />WINDOW RENEWAL &amp; KITCHEN REFURBISHMENT PROJECT</h2>
           <img class="full-width-image"src="images/Image_E4.jpg">
         </div>
     </div>
