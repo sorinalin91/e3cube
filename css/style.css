@@ -668,6 +668,9 @@ body {
       font-size: 80%;
       line-height: 15px;
     }
+    .mobile-special-padding-for-94{
+      padding-top: 10px !important;
+    }
     .desing-and-contract-font-size{
       font-size: 80%;
     }
@@ -957,6 +960,9 @@ body {
     }
     .building-survey-font-size{
       font-size: 85%;
+    }
+    .mobile-special-padding-for-94{
+      padding-top: 10px !important;
     }
     footer img.img-responsive.logo.e3-logo{
       height: 60% !important;

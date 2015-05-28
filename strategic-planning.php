@@ -34,7 +34,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.4%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text strategic-planing-ul" style="color:#131e29; font-weight:bold;">
+          <div class="text-padding filter-hover-text strategic-planing-ul" style="color:#131e29;">
           <h2 class="padding-20-0-0-50 nbsp-h2 hidden-mobile-p">&nbsp;</h2>
           <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding margin-bottom-none" style="margin-bottom: 5px;">EXPERTS IN FUNDING, INCLUDING:  </p>
           <p class="padding-left-50" style="font-style:italic;">

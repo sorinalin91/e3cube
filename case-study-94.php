@@ -61,7 +61,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy dummy-special" style="padding-top: 96.7%"></div>
   <div class="grid-container">
-      <div class="text-padding filter-hover-text case-study-94-font-size">
+      <div class="text-padding filter-hover-text case-study-94-font-size mobile-special-padding-for-94">
         <!-- <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2> -->
         <span class="blue-border hidden-mobile-p special-blue-border"></span>
         <p class="padding-50-0-0-50 first-p-without-title mobile-top-padding">OUR TEAMS TRACK RECORD OF SECURING FUNDING INCLUDES<br>&nbsp; &#8226; ENHANCED RENEWAL GRANT FUND<br>&nbsp; &#8226; COLLEGE CAPITAL INVESTMENT FUND<br>&nbsp; &#8226; SKILLS INFRASTRUCTURE CAPITAL FUND<br>&nbsp; &#8226; COLLEGE CONDITION FUND<br>&nbsp; &#8226; BUILDING CONDITION IMPROVEMENT FUND<br>&nbsp; &#8226; ACADEMIES CAPITAL MAINTENANCE FUND<br>&nbsp; &#8226; CONDITION IMPROVEMENT FUND<br>&nbsp; &#8226; SPORT ENGLAND<br>&nbsp; &#8226; SALIX<br>&nbsp; &#8226; LOCAL ENTERPRISE PARTNERSHIP FUNDING<br>
