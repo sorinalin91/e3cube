@@ -61,7 +61,7 @@
         <div class="grid-container">
           <div class="text-padding filter-hover-text case-study-padding-mobile">
             <span class="blue-border hidden-mobile-p"></span>
-            <p class="padding-50-0-0-50 special-p" style="font-style: italic;">“E3cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” <br /> <br />“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects”
+            <p class="padding-50-0-0-50 special-p padding-10-5-20-20" style="font-style: italic;">“E3cube helped us from start to finish; to clarify our thoughts, quantify our needs and deliver an excellent result.” <br /> <br />“We were delighted by the professional and thorough approach to secure our capital finding and manage and deliver the projects”
 </p>
           </div>
         </div>

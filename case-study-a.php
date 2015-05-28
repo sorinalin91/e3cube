@@ -33,7 +33,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:69.1%"></div>
         <div class="grid-container">
-          <h2 class="image-title long-text-mobile center-text-case-study-a" style="font-style: italic;">“E3 Cube led the design process and took the time to fully understand our requirements, going the extra mile to secure planning permission despite significant challenges. We are delighted with this latest addition to our offering which was delivered within a tight budget"<span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title long-text-mobile center-text-case-study-a special-quote-m" style="font-style: italic;">“E3 Cube led the design process and took the time to fully understand our requirements, going the extra mile to secure planning permission despite significant challenges. We are delighted with this latest addition to our offering which was delivered within a tight budget"<span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/ImageA3.jpg">
         </div>
     </div>

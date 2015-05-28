@@ -249,6 +249,7 @@ body {
 
 /*----------- MENU-----------*/   
     nav p.go-to-for-hover{
+          opacity: 0.6;
         z-index:999;
         position: absolute;
         width: 80px;
@@ -271,6 +272,9 @@ body {
     }
     nav.menu-clasic:hover  {
         top: 70px;
+    }
+    nav.menu-clasic:hover p.go-to-for-hover{
+  opacity:1;
     }
     nav.menu-clasic {
         top: 25px;
@@ -427,6 +431,7 @@ body {
 
 /*------------MENU-----------*/
     nav p.go-to-for-hover{
+          opacity: 0.6;
           z-index:999;
           position: absolute;
           width: 80px;
@@ -450,6 +455,9 @@ body {
     }
     nav.menu-clasic:hover  {
         top: 40px;
+    }
+    nav.menu-clasic:hover p.go-to-for-hover{
+  opacity:1;
     }
     nav.menu-clasic {
         top: 0px;
@@ -665,6 +673,7 @@ body {
     }
     /*------------MENU-----------*/
     nav p.go-to-for-hover{
+          opacity: 0.6;
           z-index:999;
           position: absolute;
           width: 80px;
@@ -689,6 +698,9 @@ body {
     nav.menu-clasic:hover  {
         top: 40px;
     }
+    nav.menu-clasic:hover p.go-to-for-hover{
+  opacity:1;
+    }
     nav.menu-clasic {
         top: 5px;
         position: absolute;
@@ -707,6 +719,9 @@ body {
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
+    .special-p-design{
+      margin-top: 4px !important;
+    }
     .carousel-caption{
     	left: -50px;
     }
@@ -791,6 +806,9 @@ body {
     .container-fluid h2.long-text-mobile{
       font-size: 16px !important;
     }
+    .container-fluid h2.long-text-mobile.center-text-case-study-a.special-quote-m{
+      font-size: 12px !important;
+    }
     h2.full-width-image-text.mobile-special-bigger-text{
         font-size: 13px;
         padding: 16px 0 0 10px;
@@ -812,7 +830,7 @@ body {
       margin: 10px 0px 0 0;
     }
     footer .footer-email{
-      font-size: 8px;
+      font-size: 9px;
       margin-top: 10px;
     }
     footer .footer-tel{
@@ -905,7 +923,7 @@ body {
       padding: 0 0 0 5px !important;
     }
     .container-fluid .case-study-padding-mobile{
-      padding: 10px 30px 20px 20px !important;
+      padding: 9px 5px 20px 20px !important;
     }
     .container-fluid h2.image-text-margin-top{
       margin-top: 40px !important;
@@ -934,6 +952,12 @@ body {
     .margin-bottom-none{
       margin-bottom: 0 !important;
     }
+    .strategic-planing-font-size{
+      font-size: 77%;
+    }
+    .building-survey-font-size{
+      font-size: 85%;
+    }
     footer img.img-responsive.logo.e3-logo{
       height: 60% !important;
       margin: 0 !important;
@@ -941,6 +965,7 @@ body {
     }
      /*------------MENU-----------*/
     nav p.go-to-for-hover{
+          opacity: 0.6;
           z-index:998;
           position: relative;
           width: 80px;
@@ -962,7 +987,10 @@ body {
 
     }
     nav.menu-clasic:hover  {
-        top: 100px;
+        top: 50px;
+    }
+    nav.menu-clasic:hover p.go-to-for-hover{
+        opacity:1;
     }
     nav.menu-clasic {
         top: -210px;
@@ -1213,6 +1241,7 @@ footer .logo{
   z-index: 999;
 }
 /*nav p.go-to-for-hover{
+      opacity: 0.6;
       z-index:999;
     position: absolute;
     width: 80px;
@@ -1234,6 +1263,9 @@ footer .logo{
 }
 nav.menu-clasic:hover  {
     top: 80px;
+}
+nav.menu-clasic:hover p.go-to-for-hover{
+    opacity:1;
 }
 nav.menu-clasic {
     top: 40px;
