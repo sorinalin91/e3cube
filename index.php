@@ -13,32 +13,32 @@
         <div class="carousel-inner">
             <div class="item active">
                 <div class="fill" style="background-image:url('images/Image1r.jpg');"></div>
-                <div class="carousel-caption black image1-css">
-                    <h1>Balanced to perfection</h1>
+                <div class="carousel-caption  image1-css">
+                    <h1 style="color:#131e29;">Balanced to perfection</h1>
                 </div>
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('images/Image2r.jpg');"></div>
-                <div class="carousel-caption white">
+                <div class="carousel-caption whit image2-css">
                     <h1 style="color:#131e29;">Employers demand workplace teaching environments</h1>
                 </div>
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('images/Image3r.jpg');"></div>
-                <div class="carousel-caption black">
-                    <h1>Solidarity in design </h1>
+                <div class="carousel-caption ">
+                    <h1 style="color:#131e29;">Solidarity in design </h1>
                 </div>
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('images/Image4r.jpg');"></div>
                 <div class="carousel-caption white  image4-css">
-                    <h1>At home in its setting</h1>
+                    <h1 style="color:#131e29;">At home in its setting</h1>
                 </div>
             </div>
              <div class="item">
                 <div class="fill" style="background-image:url('images/Image5r.jpg');"></div>
-                <div class="carousel-caption black">
-                    <h1>Inspired learning</h1>
+                <div class="carousel-caption ">
+                    <h1 style="color:#131e29;">Inspired learning</h1>
                 </div>
             </div>
         </div>
@@ -93,9 +93,10 @@
           <div class="text-padding filter-hover-text-span ">
             <span class="left-inside-col"><p>94%</p></span>
             <span class="right-inside-col">
-              <h2>OF</h2>
+              <h2>SUCCESS RATE IN</h2>
+              <h2>EFA</h2>
               <h2>CIF</h2>
-              <h2>BIDS SUCCESSFUL</h2>
+              <h2>APPLICATIONS</h2>
             </span>
          </div> 
         </div>
