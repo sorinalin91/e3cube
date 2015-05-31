@@ -1,5 +1,8 @@
 <?php include 'templates/header.php' ?>
 <header id="myCarousel" class="carousel slide">
+        <a href="#" class="down-arrow">
+          <img src="images/red-arrow.png">
+        </a>
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -48,7 +51,7 @@
         </a>
     </header>
 
-<div class="container-fluid">
+<div class="container-fluid" id="scroll-here">
   <div class="row">
     <div class="col-xs-5 col-md-5 col-lg-5 block-item no-padding light-background">
       <div class="nav-bg-filter filter-hover"></div>

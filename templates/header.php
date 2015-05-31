@@ -36,7 +36,7 @@
       <a class="navbar-brand" href="https://www.linkedin.com/company/e3-cube-ltd" target="_blank"><img class="img-responsive connect" src="images/ln.png" ></a>
       <a class="navbar-brand" href="tel:03333 058 2918"><img class="img-responsive connect" src="images/phone.png" ></a>
       <a class="navbar-brand" href="mailto:enquiries@e3cube.co.uk"><img class="img-responsive connect" src="images/mail.png" ></a>
-      <a class="navbar-brand" href="#"><div class="marquee title-marquee" data-direction='up' data-duration='3000' data-pauseOnHover="true">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</div></a>
+      <a class="navbar-brand" href="#"><div class="marquee title-marquee">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</div></a>
         <!-- <marquee class="news_special" behavior="scroll" direction="up" scrollamount="1">A staggering 94% of all CIF applications submitted by E3 Cube have been successful</marquee></a> -->
     </div>
 
@@ -56,10 +56,10 @@
           <li><a href="case-study-94.php">Funding Support</a></li>
           <li><a href="strategic-planning.php">Strategic Planning</a></li>
           <li><a href="building-surveying.php">Building Surveying Consultancy</a></li>
-          <li><a href="design-and-contract-management.php">Design and Contract Management</a></li>
+          <li><a href="design-and-contract-management.php">Design &amp; Contract Management</a></li>
           <li><a href="access-consultancy.php">Access &amp; Equality Consultancy</a></li>
           <li><a href="health-and-safety.php">Health &amp; Safety</a></li>
-          <li><a href="education-sector.php">Education Sector</a></li>
+          <li><a href="education-sector.php">Education Sector Services</a></li>
       </ul>
     </div>
     <p href="" class="go-to-for-hover" id="hover-element">GO TO  <span style="color:#58b7df;">></span></p>

@@ -128,7 +128,7 @@ body {
 }
 @media all and (min-width: 1300px) {
     .carousel-caption h1 {
-        font-size: 100px;
+        font-size: 85px;
     }
     .container-fluid h1{
     	font-size: 36px;
@@ -175,6 +175,8 @@ body {
     footer .footer-h2{
       padding: 0;
       margin: 10px 5px 0 0;
+      width: 200px;
+      float: left;
     }
     .building-ul-margin{
       margin-left: 50px;
@@ -220,9 +222,15 @@ body {
     }
     footer .footer-tel{
       font-size: 16px;
+      width: 200px;
+      float: left;
+      margin-top: 20px;
     }
      footer .email-h2{
       font-size: 16px;
+      width: 200px;
+      float: left;
+      margin-top: 20px;
     }
     .copy {
       font-size: 12px !important;
@@ -249,7 +257,6 @@ body {
 
 /*----------- MENU-----------*/   
     nav p.go-to-for-hover{
-          opacity: 0.6;
         z-index:999;
         position: absolute;
         width: 80px;
@@ -283,12 +290,12 @@ body {
         background-color: #131e29;
         left: 0;
         text-align: left;
-        width: 1500px;
+        width: 1550px;
         height: 55px;
-        -webkit-transition: all 1s ease-in-out;
-        -moz-transition: all 1s ease-in-out;
-        -o-transition: all 1s ease-in-out;
-        transition: all 1s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
     }
      #hidded-padding{
       display: none;
@@ -303,7 +310,7 @@ body {
        font-size: 16px !important;
     }
     footer .logo{
-      height: 40%;
+      height: 75%;
     }
     .copy{
       font-size: 10px;
@@ -313,16 +320,20 @@ body {
       margin: 10px 5px 0 0;
     }
     footer h2.footer-h2.email-h2{
-      margin-top: 10px;
+      margin-top: 25px;
+      width: 200px;
+      float: left;
     }
     footer h2.footer-h2.footer-tel{
-      margin-top: 10px;
+      margin-top: 25px;
+      width: 200px;
+      float: left;
     }
     footer .footer-tel{
       font-size: 16px !important;
     }
     footer .dummy-footer{
-      padding-top: 13% !important;
+      padding-top: 6% !important;
     }
     .rics-logo {
       position: absolute;
@@ -369,6 +380,8 @@ body {
       font-size: 26px;
       padding: 0px 0 0 50px;
       margin: 20px 0 0 0;
+      width: 180px;
+      float: left;
     }
      .carousel-caption h1 {
         font-size: 80px;
@@ -431,7 +444,6 @@ body {
 
 /*------------MENU-----------*/
     nav p.go-to-for-hover{
-          opacity: 0.6;
           z-index:999;
           position: absolute;
           width: 80px;
@@ -468,10 +480,10 @@ body {
         text-align: left;
         width: 1000px;
         height: 40px;
-        -webkit-transition: all 1s ease-in-out;
-        -moz-transition: all 1s ease-in-out;
-        -o-transition: all 1s ease-in-out;
-        transition: all 1s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
     }
     #hidded-padding{
       display: none;
@@ -549,16 +561,22 @@ body {
     footer .footer-h2{
       padding: 0;
       margin: 10px 5px 0 0;
+      width: 150px;
+      float: left;
     }
     footer .footer-email{
       font-size: 60%;
       text-decoration: none;
+
     }
     footer .footer-tel{
-      font-size: 70%;
+      font-size: 75%;
+      width: 150px;
+      float: left;
+      margin-top: 20px;
     }
     .dummy.dummy-footer{
-      padding-top: 15% !important;
+      padding-top: 7% !important;
     }
     .container-fluid .our-services-dummy-boxes{
       padding-top: 100% !important;
@@ -622,7 +640,7 @@ body {
     }
     img.img-responsive.logo.e3-logo{
       margin-left: 0 !important;
-      height: 35%;
+      height: 80%;
     }
     .copy {
       font-size: 8px !important;
@@ -676,7 +694,6 @@ body {
     }
     /*------------MENU-----------*/
     nav p.go-to-for-hover{
-          opacity: 0.6;
           z-index:999;
           position: absolute;
           width: 80px;
@@ -711,12 +728,12 @@ body {
         background-color: #131e29;
         left: 0;
         text-align: left;
-        width: 800px;
+        width: 850px;
         height: 40px;
-        -webkit-transition: all 1s ease-in-out;
-        -moz-transition: all 1s ease-in-out;
-        -o-transition: all 1s ease-in-out;
-        transition: all 1s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
     }
 
 }
@@ -831,14 +848,23 @@ body {
     footer .footer-h2{
       padding: 0;
       margin: 10px 0px 0 0;
+
+    }
+    footer .contact-title{
+      width: 55px;
+      float: left;
     }
     footer .footer-email{
-      font-size: 9px;
-      margin-top: 10px;
+      font-size: 10px;
+      margin-top: 0px !important; 
+      width: 125px;
+      float:left;
     }
     footer .footer-tel{
       font-size: 10px;
-      margin-top: 10px;
+      margin-top: 0px !important; 
+      width: 120px;
+      float:left;
     }
     .dummy.dummy-footer{
       padding-top: 18% !important;
@@ -971,7 +997,6 @@ body {
     }
      /*------------MENU-----------*/
     nav p.go-to-for-hover{
-          opacity: 0.6;
           z-index:998;
           position: relative;
           width: 80px;
@@ -1007,10 +1032,10 @@ body {
         text-align: left;
         width: 300px;
         height: 260px;
-        -webkit-transition: all 1s ease-in-out;
-        -moz-transition: all 1s ease-in-out;
-        -o-transition: all 1s ease-in-out;
-        transition: all 1s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
     }
     #hidded-padding{
         top: 170px;
@@ -1118,10 +1143,10 @@ h2{
   overflow: hidden;
 }
 .footer{
-  background: -webkit-linear-gradient(#131e29, lightgray); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#131e29, lightgray); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#131e29, lightgray); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#131e29, lightgray); /* Standard syntax */
+  background: -webkit-linear-gradient(to right, #131e29, #ffffff); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(to right, #131e29, #ffffff); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(to right, #131e29, #ffffff); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #131e29, #ffffff); /* Standard syntax */
 }
 a .img-responsive.32dim{
   padding: 0;
@@ -1211,6 +1236,9 @@ footer .footer-h2 a:hover{
 }
 .title-marquee{
   margin-top: 20px;
+  width: 500px;
+  float: left;
+  height: 30px;
 }
 .icon-next{
   font-size: 500% !important;
@@ -1234,7 +1262,17 @@ footer .logo{
   position: relative;
   z-index: 0;
 }
-
+.down-arrow{
+  position: absolute;
+  z-index: 1;
+  bottom: 20px;
+  left: 20px;
+  width: 160px;
+  height: 120px;
+}
+.down-arrow img{
+  padding: 25px 0 0 5px;
+}
 /*-----------------MENU-----------------------------------------------------*/
 .menu li a{
   text-decoration: none;
@@ -1246,8 +1284,10 @@ footer .logo{
   position: absolute;
   z-index: 999;
 }
-/*nav p.go-to-for-hover{
-      opacity: 0.6;
+nav.menu-clasic{
+  position: fixed;
+}
+/*nav p.go-to-for-hov
       z-index:999;
     position: absolute;
     width: 80px;
@@ -1282,8 +1322,10 @@ nav.menu-clasic {
     text-align: left;
     width: 1500px;
     height: 40px;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }*/
+
+
