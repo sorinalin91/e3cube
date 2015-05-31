@@ -1,7 +1,7 @@
 <?php include 'templates/header.php' ?>
 <div class="container-fluid 94-case-study-p our-services">
 <div class="row">
-<div class="col-xs-6 col-md-6 col-lg-6 no-padding block-item ">
+<div class="col-xs-6 col-md-6 col-lg-6 no-padding block-item our-services-grid-top">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy" style="padding-top:69%"></div>
   <div class="grid-container first-box-h2">
@@ -12,7 +12,7 @@
 	  </div>
   </div>
 </div>
-<div class="col-xs-6 col-md-6 col-lg-6 no-padding block-item">
+<div class="col-xs-6 col-md-6 col-lg-6 no-padding block-item our-services-grid-top">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy our-services-dummy" style="padding-top:69%"></div>
   <div class="grid-container first-box-h2">

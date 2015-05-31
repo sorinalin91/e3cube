@@ -33,7 +33,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.6%"></div>
         <div class="grid-container">
-	      <div class="text-padding filter-hover-text desing-and-contract-font-size">
+	      <div class="text-padding filter-hover-text strategic-planing-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
 	        <span class="blue-border hidden-mobile-p"></span>
 	        <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">INSPIRED INTERIOR DESIGN</p>
@@ -60,7 +60,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text desing-and-contract-font-size">
+          <div class="text-padding filter-hover-text strategic-planing-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">FUNCTIONAL DESIGN</p>
@@ -72,7 +72,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top: 95.8%"></div>
         <div class="grid-container">
-          <div class="text-padding filter-hover-text desing-and-contract-font-size">
+          <div class="text-padding filter-hover-text strategic-planing-font-size">
             <h2 class="padding-20-0-0-50 nbsp-h2">&nbsp;</h2>
             <span class="blue-border hidden-mobile-p"></span>
            	<p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p" style="margin-bottom: 5px;">ROBUST DESIGN</p>

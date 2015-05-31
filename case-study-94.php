@@ -6,7 +6,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">
-          <h2 class="image-title full-width-image-text mobile-special-bigger-text image-text-margin-top">94% OF CIF BIDS SUCCESSFUL <br /> SPECIALIST STRATEGIC CONSULTANTS EXPERTS AT DEVELOPING BUSINESS <br /> CASES IN SUPPORT OF CAPITAL GRANT FUNDING APPLICATIONS <br /> DETAILED KNOWLEDGE OF APPLICATION AND APPROVAL PROCESSES ACROSS A <br /> BOARD RANGE OF FUNDING STREAMS <span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title full-width-image-text mobile-special-bigger-text image-text-margin-top go-margin-home-redirect">94% OF CIF BIDS SUCCESSFUL <br /> SPECIALIST STRATEGIC CONSULTANTS EXPERTS AT DEVELOPING BUSINESS <br /> CASES IN SUPPORT OF CAPITAL GRANT FUNDING APPLICATIONS <br /> DETAILED KNOWLEDGE OF APPLICATION AND APPROVAL PROCESSES ACROSS A <br /> BOARD RANGE OF FUNDING STREAMS <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/ImageC1.jpg">
         </div>
     </div>

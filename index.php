@@ -32,7 +32,7 @@
             <div class="item">
                 <div class="fill" style="background-image:url('images/Image4r.jpg');"></div>
                 <div class="carousel-caption white  image4-css">
-                    <h1 style="color:#131e29;">At home in its setting</h1>
+                    <h1 style="color:#ffffff;">At home in its setting</h1>
                 </div>
             </div>
              <div class="item">
