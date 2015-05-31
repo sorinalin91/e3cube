@@ -5,8 +5,8 @@
 <div class="col-md-12 col-xs-12 access-consultancy-12-col firs-full-width-image">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
-    <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2">
-      <h2 class="image-title smaler-image-title-mobile " style="color: #131e29;">ACCESS CONSULTANCY</h2>
+    <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2 ">
+      <h2 class="image-title smaler-image-title-mobile go-margin" style="color: #131e29;">ACCESS CONSULTANCY</h2>
       <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color: #131e29;">Through our unique blend of duel qualified NRAC Consultants and chartered building surveyors, we ensure the clients functional and operational requirements are established and both the client and design team are challenge to ensure bespoke, pragmatic and innovative design solutions are integrated into the project from the outset.</h2>
     </div>
 </div>

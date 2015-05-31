@@ -6,7 +6,7 @@
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
     <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2">
-      <h2 class="image-title smaler-image-title-mobile " style="color:#131e29;">EDUCATION SECTOR</h2>
+      <h2 class="image-title smaler-image-title-mobile go-margin" style="color:#131e29;">EDUCATION SECTOR</h2>
       <h2 class="image-title-12-col-right no-padding smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#131e29;">E3 Cube has a specialist team dedicated to the education sector, with over 90 years experience between them, providing a broad range of professional consultancy services to schools, academies, further education colleges and universities. You can rest assured, you’re in safe hands. <br /><br /> We understand the education drivers and are able to maximise Capital funding and rationalise the functional performance and statutory compliance of your estate. </h2>
     </div>
 </div>

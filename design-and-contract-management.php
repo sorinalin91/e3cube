@@ -5,9 +5,10 @@
 <div class="col-md-12 col-xs-12 design-and-contract-management-12-col firs-full-width-image">
   <div class="nav-bg-filter filter-hover"></div>
   <div class="dummy strategic-dummy-mobile" style="padding-top:40%"></div>
-    <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2">
-      <h2 class="image-title smaler-image-title-mobile " style="color:#131e29;">DESIGN AND CONTRACT MANAGEMENT</h2>
-      <h2 class="image-title-12-col-right no-padding design-and-contract-management-h2-right smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width" style="color:#131e29;">Our experienced design team includes chartered building surveyors and architectural technicians, a combination of which provides a unique balance of practical functionality with architectural flare.
+    <div class="grid-container strategic-12-col-grid-container strategic-planing-font-h2 ">
+      <h2 class="image-title smaler-image-title-mobile go-margin " style="color:#131e29;">DESIGN &amp; CONTRACT MANAGEMENT<span style="color:#58b7df;">&nbsp;></span></h2>
+      <span class="blue-border hidden-mobile-p special-blue-border-margin"></span>
+      <h2 class="image-title-12-col-right no-padding design-and-contract-management-h2-right smaler-image-title-mobile strategic-12-grid-h2 right-column-mobile-width strategic-right-box-text" style="color:#131e29;">Our experienced design team includes chartered building surveyors and architectural technicians, a combination of which provides a unique balance of practical functionality with architectural flare.
         <span class="design-and-contract-management-span desing-and-contract" style="color:#ffffff;">
           <p class="special-p-design" style="margin-top:10px;">Our services include:-</p> 
           <p>Procurement Strategy / Contract Selection</p>

@@ -127,6 +127,12 @@ body {
   margin: 0;
 }
 @media all and (min-width: 1300px) {
+  .special-blue-border-margin{
+    margin-top: 80px !important;
+  }
+  .go-margin{
+    margin-top: 40px !important;
+  }
   h2.image-title-12-col-right.no-padding.smaler-image-title-mobile.strategic-12-grid-h2.strategic-right-box-text{
     font-size: 140%;
   }
@@ -193,7 +199,7 @@ body {
       width: 40%;
     }
     .design-and-contract-management-span{
-      font-size: 0.5em;
+      font-size: 0.6em;
       line-height: 20px;
     }
     .container-fluid h2.design-and-contract-management-h2-right{
@@ -322,6 +328,19 @@ body {
     }
 }
 @media all and (max-width: 1299px) and (min-width: 960px) {
+    .special-blue-border-margin{
+      margin-top: 100px !important;
+    }
+    .building-width-h2 {
+      width: 300px !important;
+    }
+     h2.image-title-12-col-right.no-padding.smaler-image-title-mobile.strategic-12-grid-h2.right-column-mobile-width.strategic-right-box-text {
+      font-size: 130% !important;
+        margin-top: 50px;
+    }
+    .go-margin{
+      margin-top: 75px !important;
+    }
     .our-services-alignement{
       float: none;
     } 
@@ -411,7 +430,6 @@ body {
       font-size: 26px;
       padding: 0px 0 0 50px;
       margin: 20px 0 0 0;
-      width: 180px;
     }
      .carousel-caption h1 {
         font-size: 80px;
@@ -463,8 +481,8 @@ body {
     }
     .strategic-planing-font-h2 h2 {
       font-size: 140%;
-      margin-top: 50px;
         width: 400px;
+        margin-top: 50px;
     }
     .strategic-planing-font-size{
       font-size: 80%;
@@ -488,7 +506,7 @@ body {
       font-size: 60%;
     }
     ul.our-servies-ul-list{
-      margin-left: 180px !important;
+      margin-left: 35% !important;
       padding-top: 5px !important;
       font-size: 80% !important;
     }
@@ -541,6 +559,9 @@ body {
     }
 } 
 @media all and (max-width: 959px) and (min-width: 600px) {
+    .go-margin{
+      margin-top: 30px !important;
+    }
     .carousel-caption h1 {
         font-size: 65px;
     }
@@ -815,6 +836,9 @@ body {
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
+   .go-margin{
+      margin-top: 35px !important;
+    }
     .special-p-design{
       margin-top: 4px !important;
     }
@@ -1383,6 +1407,7 @@ footer .logo{
   filter: FlipH;
   -ms-filter: "FlipH";
 }
+
 /*-----------------MENU-----------------------------------------------------*/
 .menu li a{
   text-decoration: none;
