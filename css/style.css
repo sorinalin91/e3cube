@@ -265,6 +265,10 @@ body {
     .menu-clasic li{
       font-size: 140%;
     }
+    ul.our-servies-ul-list{
+      margin-left: 10%;
+      font-size: 140%;
+    }
 
 /*----------- MENU-----------*/   
     nav p.go-to-for-hover{
@@ -466,6 +470,16 @@ body {
     }
     .desing-and-contract-font-size{
       font-size: 80%;
+    }
+     p.padding-50-0-0-50.first-p-without-title.strategic-12-grid-p.ul-title-padding.ul-title-padding-our-services{
+      padding-top: 15px !important;
+      margin-left: 30%;
+      font-size: 60%;
+    }
+    ul.our-servies-ul-list{
+      margin-left: 180px !important;
+      padding-top: 5px !important;
+      font-size: 80% !important;
     }
 
 /*------------MENU-----------*/
@@ -728,6 +742,20 @@ body {
     }
     .desing-and-contract-font-size{
       font-size: 80%;
+    }
+    ul.our-servies-ul-list{
+      margin-left: 35% !important;
+
+    }
+    p.padding-50-0-0-50.first-p-without-title.strategic-12-grid-p.ul-title-padding.ul-title-padding-our-services{
+      padding-top: 45px;
+      margin-left: 30%;
+      font-size: 100%;
+    }
+    ul.our-servies-ul-list{
+        margin-left: 30% !important;
+        /* padding-top: 0px !important; */
+        font-size: 80% !important;
     }
     /*------------MENU-----------*/
     nav p.go-to-for-hover{
@@ -1042,6 +1070,17 @@ body {
       margin: 0 !important;
       padding: 0;
     }
+    p.padding-50-0-0-50.first-p-without-title.strategic-12-grid-p.ul-title-padding.ul-title-padding-our-services{
+      padding-top: 15px !important;
+      margin-left: 30%;
+      font-size: 60%;
+    }
+    ul.our-servies-ul-list{
+        margin-left: 30% !important;
+        /* padding-top: 0px !important; */
+        /*font-size: 80% !important;*/
+          font-size: 0.4em;
+    }
      /*------------MENU-----------*/
     nav p.go-to-for-hover{
           z-index:998;
@@ -1319,6 +1358,18 @@ footer .logo{
 }
 .down-arrow img{
   padding: 25px 0 0 5px;
+}
+.our-services-alignement{
+  float: none !important;
+  width: 250px !important;
+}
+.flip-image{
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
 }
 /*-----------------MENU-----------------------------------------------------*/
 .menu li a{
