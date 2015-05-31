@@ -10,7 +10,6 @@
 	    <span class="blue-border hidden-mobile-p"></span>
 	    <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p><br />
 	    <p class="padding-left-50">As a practice we have the full range of disciplines within our team, ensuring you’re in safe hands from concept to completion.</p><br />
-	    <p class="padding-left-50 hidden-mobile-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p>
 	  </div>
   </div>
 </div>
@@ -22,7 +21,6 @@
       <h2 class="padding-20-0-0-50">&nbsp;</h2>
 	    <span class="blue-border hidden-mobile-p"></span>
 	    <p class="padding-50-0-0-50 our-services-first-p">As a practice we have the full range of skills within our team, ensuring you’re in safe hands from concept to completion.</p><br />
-	    <p class="padding-left-50 hidden-mobile-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p>
 	  </div>
   </div>
 </div>	
