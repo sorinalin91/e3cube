@@ -127,6 +127,12 @@ body {
   margin: 0;
 }
 @media all and (min-width: 1300px) {
+  h2.image-title-12-col-right.no-padding.smaler-image-title-mobile.strategic-12-grid-h2.strategic-right-box-text{
+    font-size: 140%;
+  }
+    .blue-border.hidden-mobile-p.our-services-blue-border{
+      margin-left: 0 !important;
+    }
     .carousel-caption h1 {
         font-size: 85px;
     }
@@ -269,7 +275,6 @@ body {
       margin-left: 10%;
       font-size: 140%;
     }
-
 /*----------- MENU-----------*/   
     nav p.go-to-for-hover{
         z-index:999;
@@ -317,6 +322,12 @@ body {
     }
 }
 @media all and (max-width: 1299px) and (min-width: 960px) {
+    .our-services-alignement{
+      float: none;
+    } 
+    .blue-border.hidden-mobile-p.our-services-blue-border{
+      margin: 15px 0 0 0 !important;
+    }
     .dummy-footer.copy-footer {
       padding-top: 3% !important;
       background-color: lightgray;
@@ -401,7 +412,6 @@ body {
       padding: 0px 0 0 50px;
       margin: 20px 0 0 0;
       width: 180px;
-      float: left;
     }
      .carousel-caption h1 {
         font-size: 80px;
@@ -454,6 +464,7 @@ body {
     .strategic-planing-font-h2 h2 {
       font-size: 140%;
       margin-top: 50px;
+        width: 400px;
     }
     .strategic-planing-font-size{
       font-size: 80%;
