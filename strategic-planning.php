@@ -73,9 +73,9 @@
             <span class="blue-border hidden-mobile-p"></span>
             <p class="padding-50-0-0-50 strategic-12-grid-p" style="font-style:italic;">“E3 Cube quickly established our priority needs and completed detailed due diligence to develop robust business cases for CIF funding support”</p><br />
             <p class="padding-left-50" style="font-style:italic;">“With E3 Cubes support, we secured funding for both of our bids, without their support this would not have been possible”</p><br />
-            <p class="padding-left-50 hidden-mobile-p" style="font-style:italic;">“If you’re an Academy, speak to E3 Cube”. Business Manager </p><br />
+            <p class="padding-left-50 hidden-mobile-p" style="font-style:italic;">“If you’re an Academy, speak to E3 Cube”. Business Manager </p><br class="hidden-mobile-p" />
             <p class="padding-left-50 first-p-without-title strategic-12-grid-p" style="font-style:italic;">"We are delighted with the professional services and added value E3 Cube have provided to the College, during the implementation of our latest £8m phased investment programme into our estate. We would highly recommended them" </p><br />
-          <p class="padding-left-50 strategic-12-grid-p hidden-on-small-devices" style="font-style:italic;">"They achieved the impossible in a very short period of time, securing the College significant levels of EFA funding for our new £5m Visitor Economy Centre"</p><br />
+          <p class="padding-left-50 strategic-12-grid-p hidden-on-small-devices" style="font-style:italic;">"They achieved the impossible in a very short period of time, securing the College significant levels of EFA funding for our new £5m Visitor Economy Centre"</p><br class="hidden-mobile-p" />
           <p class="padding-left-50 strategic-12-grid-p hidden-on-small-devices" style="font-style:italic;">"E3 Cube have a detailed understanding of the challenges and needs within the Education Sector, being able to draw upon this knowledge has been invaluable" Vice Principal</p>
           </div>
         </div>

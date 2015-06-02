@@ -197,11 +197,14 @@ body {
     .container-fluid p.special-p{
       font-size: 250%;
     }
+    h2.footer-h2.contact-title {
+      float: left;
+    }
+
     footer .footer-h2{
       padding: 0;
       margin: 10px 5px 0 0;
       width: 200px;
-      float: left;
     }
     .building-ul-margin{
       margin-left: 50px;
@@ -257,15 +260,13 @@ body {
     }
     footer .footer-tel{
       font-size: 16px;
-      width: 200px;
-      float: left;
-      margin-top: 20px;
+      width: 300px;
     }
      footer .email-h2{
       font-size: 16px;
       width: 200px;
       float: left;
-      margin-top: 20px;
+      margin-top: 0px;
     }
     .copy {
       font-size: 12px !important;
@@ -392,17 +393,21 @@ body {
     footer .footer-h2 {
       padding: 0 !important;
       margin: 10px 5px 0 0;
-      float: left;
     }
     footer h2.footer-h2.email-h2{
-      width: 200px;
+      width: 280px;
       float: left;
-      margin: 25px 0 0 10px;
+      margin: 5px 0 0 0px;
+      padding-left: 10px !important;
+    }
+    footer h2.footer-h2.contact-title {
+      float: left;
     }
     footer h2.footer-h2.footer-tel{
-      margin-top: 25px;
-      width: 200px;
-      float: left;
+      margin-top: 10px;
+      width: 280px;
+      padding-left: 116px !important;
+
     }
     footer .footer-tel{
       font-size: 16px !important;
@@ -675,12 +680,25 @@ body {
       padding: 0;
       margin: 10px 5px 0 0;
       width: 150px;
-      float: left;
     }
     footer .footer-email{
       font-size: 60%;
       text-decoration: none;
 
+    }
+    footer h2.footer-h2.contact-title {
+      float: left;
+    }
+    h2.footer-h2.email-h2 {
+      margin-top: 0px;
+    }
+    footer ul li:nth-child(2){
+      margin-top: 5px;
+    }
+
+    footer ul li{
+      position: absolute;
+      margin-left: 100px;
     }
     footer .footer-tel{
       font-size: 75%;
@@ -877,10 +895,14 @@ body {
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
-
+  .down-arrow span {
+      padding: 65px 0 0 0px !important;
+      font-size: 75px !important;
+      color: #131e29 !important;
+  }
    h2.image-title.full-width-image-text.mobile-special-bigger-text.image-text-margin-top.go-margin-home-redirect{
       position: absolute;
-      width: 100%;
+      width: 80%;
       margin-left: 75px;
 
     }
@@ -978,7 +1000,7 @@ body {
       height: 35px !important;
     }
     h2.full-width-image-text{
-      font-size: 18px;
+      font-size: 15px;
       padding: 10px 0 0 10px;
     }
     .container-fluid h2.long-text-mobile{
@@ -988,7 +1010,7 @@ body {
       font-size: 12px !important;
     }
     h2.full-width-image-text.mobile-special-bigger-text{
-        font-size: 80%;
+        font-size: 74%;
         padding: 16px 0 0 10px;
     }
     .container-fluid p.first-p-without-title{
@@ -1022,7 +1044,7 @@ body {
       font-size: 10px;
       margin-top: 0px !important; 
       width: 120px;
-      float:left;
+      margin-left: 15px;
     }
     .dummy.dummy-footer{
       padding-top: 18% !important;
@@ -1037,7 +1059,7 @@ body {
       font-size: 7px;
     }
     .container-fluid .strategic-12-col-grid-container h2.strategic-12-grid-h2{
-      margin: 10px 0 0 10px !important;
+      margin: 9px 0 0 10px !important;
     }
     .container-fluid p.strategic-12-grid-p{
       padding: 5px 0 0 10px !important;
@@ -1466,7 +1488,9 @@ footer .logo{
 .our-services-grid-top{
     margin-top: 50px;
    }
-
+footer ul li{
+  list-style-type: none;
+}
 /*-----------------MENU-----------------------------------------------------*/
 .menu li a{
   text-decoration: none;

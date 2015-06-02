@@ -6,7 +6,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:40%"></div>
         <div class="grid-container">
-          <h2 class="image-title full-width-image-text go-margin" style="color:#131e29;">£1.6 MILLION PROJECT <br /> FINAL PHASE OF £2.5 MILLION INVESTMENT IN SPORT <br /> ENTIRE PROGRAMME DELIVERED TO BUDGET <span style="color:#58b7df;">&nbsp;></span></h2>
+          <h2 class="image-title full-width-image-text go-margin" style="color:#ffffff;">£1.6 MILLION PROJECT <br /> FINAL PHASE OF £2.5 MILLION INVESTMENT IN SPORT <br /> ENTIRE PROGRAMME DELIVERED TO BUDGET <span style="color:#58b7df;">&nbsp;></span></h2>
           <img class="full-width-image"src="images/Image_A_1680.jpg" style="height: auto;">
         </div>
     </div>

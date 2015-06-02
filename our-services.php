@@ -8,9 +8,9 @@
 	  <div class="text-padding filter-hover-text top-box our-services-head-section">
 	    <h2 class="padding-20-0-0-50 our-services-alignement">OUR SERVICES<span style="color:#58b7df;">&nbsp;></span></h2>
 	    <span class="blue-border hidden-mobile-p specia-home-our-services-blue-border"></span>
-      <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p>
-      <p class="padding-50-0-0-50 our-services-first-p">As a practice we have the full range of skills within our team, ensuring you’re in safe hands from concept to completion.</p>
-	    <p class="padding-50-0-0-50 our-services-first-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p>
+      <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p><br />
+      <p class="padding-left-50 our-services-first-p">As a practice we have the full range of skills within our team, ensuring you’re in safe hands from concept to completion.</p><br />
+	    <p class="padding-left-50 our-services-first-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p><br />
 	  </div>
   </div>
 </div>

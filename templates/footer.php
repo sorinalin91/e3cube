@@ -7,8 +7,10 @@
   <div class="grid-container footer-grid-container">
     <div class="text-padding filter-hover-text">
       <h2 class="footer-h2 contact-title">CONTACT US <span style="color:#58b7df;">></span></h2>
-      <h2 class="footer-h2 email-h2"><a href="mailto:enquiries@e3cube.co.uk" class="footer-email"><span style="color:#ffffff;">Email:</span> enquiries@e3cube.co.uk</a></h2>
-      <h2 class="footer-h2 footer-tel" ><span style="color:#ffffff;">Tel: </span>03333 058 2918</h2>
+      <ul>
+        <li><h2 class="footer-h2 email-h2"><a href="mailto:enquiries@e3cube.co.uk" class="footer-email"><span style="color:#ffffff;">Email:</span>&nbsp;enquiries@e3cube.co.uk</a></h2></li>
+        <li><h2 class="footer-h2 footer-tel" ><span style="color:#ffffff;">Tel: </span>03333 058 2918</h2></li>
+      </ul>
     <div class="copy" style="color:#ffffff;">&copy; All rights reserved. E3 Cube Ltd. Incorporated in England &amp; Wales, No.8524588. Registered Office: 23 Meridian Business Village, Hunts Cross, Liverpool, L24 9LG.</div>
     <a class="navbar-brand" href="index.php"><img class="img-responsive logo e3-logo" src="images/logo.png" ></a>
     </div>
