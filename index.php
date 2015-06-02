@@ -1,7 +1,8 @@
 <?php include 'templates/header.php' ?>
 <header id="myCarousel" class="carousel slide">
         <a href="#" class="down-arrow">
-          <img src="images/red-arrow.png">
+          <!-- <img src="images/red-arrow.png"> -->
+         <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
         </a>
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>

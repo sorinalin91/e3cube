@@ -7,8 +7,10 @@
   <div class="grid-container first-box-h2">
 	  <div class="text-padding filter-hover-text top-box our-services-head-section">
 	    <h2 class="padding-20-0-0-50 our-services-alignement">OUR SERVICES<span style="color:#58b7df;">&nbsp;></span></h2>
-	    <span class="blue-border hidden-mobile-p"></span>
-	    <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p><br />
+	    <span class="blue-border hidden-mobile-p specia-home-our-services-blue-border"></span>
+      <p class="padding-50-0-0-50 our-services-first-p">We take time to understand your needs and integrate them into a bespoke service.</p>
+      <p class="padding-50-0-0-50 our-services-first-p">As a practice we have the full range of skills within our team, ensuring you’re in safe hands from concept to completion.</p>
+	    <p class="padding-50-0-0-50 our-services-first-p">With an underlining ethos of quality, our mission is to add value on every project, exceed your expectations, and develop long-term trusting relationships.</p>
 	  </div>
   </div>
 </div>
@@ -17,8 +19,9 @@
   <div class="dummy our-services-dummy" style="padding-top:69%"></div>
   <div class="grid-container first-box-h2">
 	  <div class="text-padding filter-hover-text top-box">
-       <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding ul-title-padding-our-services" style="margin-bottom: 5px; ">OUR SERVICES INCLUDE:</p>
           <p class="padding-left-50" style="font-style:italic;">
+       <p class="padding-50-0-0-50 first-p-without-title strategic-12-grid-p ul-title-padding ul-title-padding-our-services" style="margin-bottom: 5px; ">OUR SERVICES INCLUDE:</p>
+
             <ul class="our-servies-ul-list" >
               <li>Strategic Planning </li>
               <li>Capital Funding support</li>
@@ -83,7 +86,7 @@
   <div class="dummy our-services-dummy-boxes" style="padding-top:80%"></div>
   <div class="grid-container">
   	<a href="education-sector.php" class="full-div-link"></a>
-    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">EDUCATION SECTOR</h2>
+    <h2 class="image-title smaler-image-title-mobile" style="color:#131e29;font-weight:bold;">EDUCATION SECTOR SERVICES</h2>
      <img class="full-width-image"src="images/ImageD2.jpg">
   </div>
 </div>

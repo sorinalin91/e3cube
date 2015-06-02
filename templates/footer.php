@@ -3,7 +3,7 @@
 
 <div class="col-xs-12 col-md-12 col-lg-12 footer">
   <div class="nav-bg-filter filter-hover"></div>
-  <div class="dummy dummy-footer" style="padding-top:5%"></div>
+  <div class="dummy dummy-footer" style="padding-top:7%"></div>
   <div class="grid-container footer-grid-container">
     <div class="text-padding filter-hover-text">
       <h2 class="footer-h2 contact-title">CONTACT US <span style="color:#58b7df;">></span></h2>

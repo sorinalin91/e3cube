@@ -127,6 +127,12 @@ body {
   margin: 0;
 }
 @media all and (min-width: 1300px) {
+  .blue-border.hidden-mobile-p.specia-home-our-services-blue-border{
+      margin: 5px 0 0px 50px;
+  }  
+  .blue-border.hidden-mobile-p.our-services-blue-border.special-border{
+    margin: 5px 0 0px 50px;
+  }
   h2.image-title.strategic-12-col-grid-h2.strategic-planing-font-size{
     font-size: 140%;
   }
@@ -266,6 +272,7 @@ body {
       bottom: 0;
       position: absolute;
       color: #ffffff;
+      margin-bottom: 15px;
     }
     .dummy-footer.copy-footer{
       padding-top: 2% !important;
@@ -284,7 +291,7 @@ body {
       font-size: 140%;
     }
     ul.our-servies-ul-list{
-      margin-left: 10%;
+      margin-left: 6%;
       font-size: 140%;
     }
 /*----------- MENU-----------*/   
@@ -334,6 +341,12 @@ body {
     }
 }
 @media all and (max-width: 1299px) and (min-width: 960px) {
+    .blue-border.hidden-mobile-p.specia-home-our-services-blue-border{
+      margin: 3px 0 0 50px !important;
+    }    
+    .blue-border.hidden-mobile-p.our-services-blue-border.special-border{
+       margin: 3px 0 0px 0px !important;
+    }
     h2.image-title.strategic-12-col-grid-h2.strategic-planing-font-size{
       font-size: 140%;
     }
@@ -374,15 +387,17 @@ body {
     }
     .copy{
       font-size: 10px;
+      margin-bottom: 10px;
     }
     footer .footer-h2 {
       padding: 0 !important;
       margin: 10px 5px 0 0;
+      float: left;
     }
     footer h2.footer-h2.email-h2{
-      margin-top: 25px;
       width: 200px;
       float: left;
+      margin: 25px 0 0 10px;
     }
     footer h2.footer-h2.footer-tel{
       margin-top: 25px;
@@ -393,7 +408,7 @@ body {
       font-size: 16px !important;
     }
     footer .dummy-footer{
-      padding-top: 6% !important;
+      padding-top: 8% !important;
     }
     .rics-logo {
       position: absolute;
@@ -525,7 +540,7 @@ body {
       font-size: 60%;
     }
     ul.our-servies-ul-list{
-      margin-left: 35% !important;
+      margin-left: 29% !important;
       padding-top: 5px !important;
       font-size: 80% !important;
     }
@@ -674,7 +689,7 @@ body {
       margin-top: 20px;
     }
     .dummy.dummy-footer{
-      padding-top: 7% !important;
+      padding-top: 9% !important;
     }
     .container-fluid .our-services-dummy-boxes{
       padding-top: 100% !important;
@@ -755,6 +770,7 @@ body {
       bottom: 0;
       position: absolute;
       color: #131e29;
+      margin-bottom: 5px;
     }
     .dummy-footer.copy-footer{
       padding-top: 4% !important;
@@ -810,7 +826,7 @@ body {
       font-size: 100%;
     }
     ul.our-servies-ul-list{
-        margin-left: 30% !important;
+        margin-left: 27% !important;
         /* padding-top: 0px !important; */
         font-size: 80% !important;
     }
@@ -1078,6 +1094,7 @@ body {
     }
     footer .grid-container .copy{
       font-size: 5px !important;
+      margin-bottom: 10px;
     }
     .dummy-footer.copy-footer{
       padding-top: 3% !important;
@@ -1143,7 +1160,7 @@ body {
       font-size: 60%;
     }
     ul.our-servies-ul-list{
-        margin-left: 30% !important;
+        margin-left: 25% !important;
         /* padding-top: 0px !important; */
         /*font-size: 80% !important;*/
           font-size: 0.4em;
@@ -1312,7 +1329,7 @@ a .img-responsive.32dim{
   position: absolute;
 }
 .container-fluid .grid-container.first-box-h2{
-  padding-top: 100px;
+  padding-top: 65px;
 }
 .footer-email{
   position: relative;
@@ -1429,9 +1446,10 @@ footer .logo{
   width: 160px;
   height: 120px;
 }
-.down-arrow img{
+.down-arrow span{
   padding: 25px 0 0 5px;
-  width: 100px;
+  font-size: 110px;
+  color: #131e29;
 }
 .our-services-alignement{
   float: none !important;
