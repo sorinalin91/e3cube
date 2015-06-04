@@ -40,7 +40,7 @@
       <div class="nav-bg-filter filter-hover"></div>
       <div class="dummy" style="padding-top:68.3%"></div>
         <div class="grid-container">
-          <!-- <h2 class="image-title strategic-12-col-grid-h2">ACCRINGTON &amp; ROSSENDALE COLLEGE<br />VISITOR ECONOMY CENTRE</h2> -->
+          <h2 class="image-title strategic-12-col-grid-h2">Crossley Heath Grammar School</h2>
           <img class="full-width-image"src="images/Image_F2.jpg">
         </div>
     </div>
