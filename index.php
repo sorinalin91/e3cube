@@ -82,7 +82,7 @@
         <div class="grid-container">
           <a href="case-study-b.php" class="full-div-link"></a>
           <h2 class="image-title">CHRISTLETON HIGH SCHOOL CLADDING RENEWAL <span style="color:#58b7df;">&nbsp;></span></h2>
-          <img class="full-width-image"src="images/ImageB.jpg">
+          <img class="full-width-image"src="images/ImageB0.jpg">
         </div>
     </div>
     <div class="col-md-6 col-xs-6 light-background image">
